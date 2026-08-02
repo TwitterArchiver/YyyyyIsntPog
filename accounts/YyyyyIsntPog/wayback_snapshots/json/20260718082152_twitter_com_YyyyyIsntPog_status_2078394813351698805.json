@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2078394813351698805",
+    "created_at": "2026-07-18T08:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078394813351698805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_0mn0_/status/…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/_0mn0_/status/2074086061085765672",
+          "start": 64,
+          "url": "https://t.co/zLK3Eb8Yga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078394813351698805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074086061085765672",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽我要这个但是上闲鱼看了一眼关税邮费什么东西加起来价格左脚踩右脚升天了。。此时我还有1set棉娃必须八月初买掉否则就买不到了 https://t.co/zLK3Eb8Yga"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 986,
+        "media_key": "3_2074063067730849792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiNXwnasAAwMtS.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2078394813351698805",
+        "created_at": "2026-07-18T08:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078394813351698805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_0mn0_/status/…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/_0mn0_/status/2074086061085765672",
+              "start": 64,
+              "url": "https://t.co/zLK3Eb8Yga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078394813351698805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074086061085765672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽我要这个但是上闲鱼看了一眼关税邮费什么东西加起来价格左脚踩右脚升天了。。此时我还有1set棉娃必须八月初买掉否则就买不到了 https://t.co/zLK3Eb8Yga"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074063067730849792"
+          ]
+        },
+        "author_id": "342774617",
+        "conversation_id": "2074086061085765672",
+        "created_at": "2026-07-06T11:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074086061085765672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "5cmほどの小さくて可愛いアクリルスタンドです 愛吏・ひなこ、それぞれ単品での販売となります ※初版とは印刷会社様が異なるため、台座の形状が若干異なります。あらかじめご了承ください。 ※素材価格高騰の影響により、再販にあたり価格を改定させていただいております。ご理解のほどよろしくお願いいたします。",
+              "display_url": "mnmn.booth.pm/items/4442656",
+              "end": 63,
+              "expanded_url": "https://mnmn.booth.pm/items/4442656",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2077187674801078272/6LBjkRDL?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2077187674801078272/6LBjkRDL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 40,
+              "status": 200,
+              "title": "愛吏&ひなこミニアクスタ - mnmn - BOOTH",
+              "unwound_url": "https://mnmn.booth.pm/items/4442656",
+              "url": "https://t.co/a92EWLhzAx"
+            },
+            {
+              "display_url": "pic.x.com/3JmxCdbDAa",
+              "end": 87,
+              "expanded_url": "https://x.com/_0mn0_/status/2074086061085765672/photo/1",
+              "media_key": "3_2074063067730849792",
+              "start": 64,
+              "url": "https://t.co/3JmxCdbDAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074086061085765672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 54025,
+          "like_count": 1277,
+          "quote_count": 28,
+          "reply_count": 8,
+          "retweet_count": 216
+        },
+        "reply_settings": "everyone",
+        "text": "🐾予約受付開始🐾\n\n愛吏とひなこのミニアクスタ再販に向けた予約が開始しました🎶\nhttps://t.co/a92EWLhzAx https://t.co/3JmxCdbDAa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 213,
+          "like_count": 42204,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 3810
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-26T15:22:29.000Z",
+        "description": "漫画を描く ちゃんと下書きをする 締め切りを守る",
+        "id": "342774617",
+        "name": "まにお︎︎︎︎︎︎︎︎",
+        "pinned_tweet_id": "2074086061085765672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954137461837447168/tcpPvjWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69637,
+          "following_count": 497,
+          "like_count": 23356,
+          "listed_count": 636,
+          "media_count": 42,
+          "tweet_count": 1696
+        },
+        "url": "",
+        "username": "_0mn0_",
+        "verified": true
+      }
+    ]
+  }
+}

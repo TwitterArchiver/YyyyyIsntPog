@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2078390007497208050",
+    "created_at": "2026-07-18T08:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078390007497208050"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chiyuyu520/sta…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/chiyuyu520/status/2078114579541102912",
+          "start": 49,
+          "url": "https://t.co/AKgIG5vvKP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078390007497208050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078114579541102912",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。。这人怎么还活着。没记错的话以前骗了别人大几万吧怎么还好意思用这个号的。。互联网没有记忆这一块 https://t.co/AKgIG5vvKP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2078114572112887808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbyMWlaAAAJNdh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2078390007497208050",
+        "created_at": "2026-07-18T08:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078390007497208050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chiyuyu520/sta…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/chiyuyu520/status/2078114579541102912",
+              "start": 49,
+              "url": "https://t.co/AKgIG5vvKP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078390007497208050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078114579541102912",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。。这人怎么还活着。没记错的话以前骗了别人大几万吧怎么还好意思用这个号的。。互联网没有记忆这一块 https://t.co/AKgIG5vvKP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078114572112887808"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2078114579541102912",
+        "created_at": "2026-07-17T13:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078114579541102912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TvWgiaLQG3",
+              "end": 28,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2078114579541102912/photo/1",
+              "media_key": "3_2078114572112887808",
+              "start": 5,
+              "url": "https://t.co/TvWgiaLQG3"
+            },
+            {
+              "display_url": "x.com/chiyuyu520/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/chiyuyu520/status/1906550893383917611",
+              "start": 29,
+              "url": "https://t.co/JlBpCRebnr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078114579541102912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 628,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 37,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906550893383917611",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "经典重置 https://t.co/TvWgiaLQG3 https://t.co/JlBpCRebnr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 213,
+          "like_count": 42181,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 3805
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "遗书→",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4336,
+          "following_count": 1283,
+          "like_count": 7501,
+          "listed_count": 6,
+          "media_count": 629,
+          "tweet_count": 1793
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

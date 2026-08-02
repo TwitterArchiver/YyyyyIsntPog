@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2081250599832625431",
+    "created_at": "2026-07-26T05:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T06:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081250599832625431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/longyvling/sta…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/longyvling/status/2080695525129507230",
+          "start": 43,
+          "url": "https://t.co/vsUWchbi2p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081250599832625431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080695525129507230",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我观点和图上基本一模一样。\n讨厌此观点的互b 或者想跟我探讨一下也行（感觉没人会来） https://t.co/vsUWchbi2p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 604,
+        "media_key": "3_2080695369818632192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAdajPW8AAr063.jpg",
+        "width": 1445
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2081250599832625431",
+        "created_at": "2026-07-26T05:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081250599832625431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/longyvling/sta…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/longyvling/status/2080695525129507230",
+              "start": 43,
+              "url": "https://t.co/vsUWchbi2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081250599832625431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080695525129507230",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我观点和图上基本一模一样。\n讨厌此观点的互b 或者想跟我探讨一下也行（感觉没人会来） https://t.co/vsUWchbi2p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080695369818632192"
+          ]
+        },
+        "author_id": "2040798583440527360",
+        "conversation_id": "2080695525129507230",
+        "created_at": "2026-07-24T16:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080695525129507230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1QuyTVRVOW",
+              "end": 46,
+              "expanded_url": "https://x.com/longyvling/status/2080695525129507230/photo/1",
+              "media_key": "3_2080695369818632192",
+              "start": 23,
+              "url": "https://t.co/1QuyTVRVOW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080695525129507230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6561,
+          "like_count": 12,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "......某些人讨厌酷儿似乎并不是没有道理 https://t.co/1QuyTVRVOW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 217,
+          "like_count": 42416,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 3863
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T14:28:34.000Z",
+        "description": "MtF | ASD | 🎂2010.1.3 | Minecraft PVP | CPhO现役 | 重庆 | 红星熄了，你还在燃。燃什么呢？只剩灰吗？ | 死亡是青年的良药，药效是永葆青春的容颜",
+        "id": "2040798583440527360",
+        "location": "长夜孤灯",
+        "name": "龙雨绫🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040798876291215360/4qSE1Jh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 192,
+          "like_count": 1993,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 593
+        },
+        "url": "",
+        "username": "longyvling",
+        "verified": false
+      }
+    ]
+  }
+}

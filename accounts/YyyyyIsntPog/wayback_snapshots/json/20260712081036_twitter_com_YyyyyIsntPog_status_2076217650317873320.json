@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2076217650317873320",
+    "created_at": "2026-07-12T08:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T09:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076217650317873320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "538659963",
+          "start": 3,
+          "username": "Sneegsnag"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076217650317873320",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 317
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076029738510962822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sneegsnag: No amount of money donated will ever get you away from taking the work of someone who poured their soul into it and just sta…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2076217650317873320",
+        "created_at": "2026-07-12T08:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076217650317873320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "538659963",
+              "start": 3,
+              "username": "Sneegsnag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076217650317873320",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 317
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076029738510962822",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sneegsnag: No amount of money donated will ever get you away from taking the work of someone who poured their soul into it and just sta…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "538659963",
+        "conversation_id": "2076028047342412275",
+        "created_at": "2026-07-11T19:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T20:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076029738510962822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076029738510962822",
+        "in_reply_to_user_id": "538659963",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 171334,
+          "like_count": 12230,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 317
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076028047342412275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "No amount of money donated will ever get you away from taking the work of someone who poured their soul into it and just start pretending to be him without any sort of thought towards his family. Reanimation of a corpse except it’s some dude who clearly does not actually care"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 212,
+          "like_count": 42056,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 3754
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-27T23:54:50.000Z",
+        "description": "Voice Actor and Absolute Gargantuan Gamer | Business: sneegbusiness@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sneegsnag.com",
+                "end": 23,
+                "expanded_url": "https://sneegsnag.com/",
+                "start": 0,
+                "url": "https://t.co/UTCjrEkj0k"
+              }
+            ]
+          }
+        },
+        "id": "538659963",
+        "location": "My House",
+        "name": "The Father",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939922299152429059/DkudbdyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402876,
+          "following_count": 983,
+          "like_count": 46684,
+          "listed_count": 1041,
+          "media_count": 8946,
+          "tweet_count": 36574
+        },
+        "url": "https://t.co/UTCjrEkj0k",
+        "username": "Sneegsnag",
+        "verified": false
+      }
+    ]
+  }
+}

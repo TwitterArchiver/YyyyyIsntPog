@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2063497193818894634",
+    "created_at": "2026-06-07T05:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T06:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063497193818894634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1878091007453286400",
+          "start": 3,
+          "username": "xxx3to"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063497193818894634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062971131758538831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxx3to: 普瑞巴林（规格16/粒每盒）\n75mg/三盒起包邮\n单盒价格21 五盒以上18/盒\n一个月能开102盒\n愈美 28/盒 三盒起24/每盒\n包月1000r\n⭐️-此帖转发随机抽pr-⭐️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2063497193818894634",
+        "created_at": "2026-06-07T05:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063497193818894634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1878091007453286400",
+              "start": 3,
+              "username": "xxx3to"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063497193818894634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062971131758538831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxx3to: 普瑞巴林（规格16/粒每盒）\n75mg/三盒起包邮\n单盒价格21 五盒以上18/盒\n一个月能开102盒\n愈美 28/盒 三盒起24/每盒\n包月1000r\n⭐️-此帖转发随机抽pr-⭐️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878091007453286400",
+        "conversation_id": "2062971131758538831",
+        "created_at": "2026-06-05T18:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062971131758538831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062971131758538831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 445,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林（规格16/粒每盒）\n75mg/三盒起包邮\n单盒价格21 五盒以上18/盒\n一个月能开102盒\n愈美 28/盒 三盒起24/每盒\n包月1000r\n⭐️-此帖转发随机抽pr-⭐️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "视奸死全家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/ZWBiQONTCQ"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 215,
+          "like_count": 42008,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 3719
+        },
+        "url": "https://t.co/ZWBiQONTCQ",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T14:46:17.000Z",
+        "description": "普瑞 75mg 出售中",
+        "id": "1878091007453286400",
+        "location": "地狱",
+        "name": "坠落",
+        "pinned_tweet_id": "2062971131758538831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062970229131821056/aKozuxH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 77,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 43
+        },
+        "username": "xxx3to",
+        "verified": false
+      }
+    ]
+  }
+}

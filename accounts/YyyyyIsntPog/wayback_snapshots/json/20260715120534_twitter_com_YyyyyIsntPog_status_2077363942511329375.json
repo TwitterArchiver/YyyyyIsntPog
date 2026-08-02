@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2077273514294558726",
+    "created_at": "2026-07-15T12:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T13:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077363942511329375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2069131894957191168",
+          "start": 0,
+          "username": "Hemlock_114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077363942511329375",
+    "in_reply_to_user_id": "2069131894957191168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077273514294558726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hemlock_114 我冯冯直接给我家里安摄像头出门必需有她陪同😂😂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2077273514294558726].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2077273514294558726",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2077273514294558726"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2077273514294558726",
+        "created_at": "2026-07-15T12:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077363942511329375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2069131894957191168",
+              "start": 0,
+              "username": "Hemlock_114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077363942511329375",
+        "in_reply_to_user_id": "2069131894957191168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077273514294558726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hemlock_114 我冯冯直接给我家里安摄像头出门必需有她陪同😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 214,
+          "like_count": 42195,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 3791
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-22T18:56:04.000Z",
+        "description": "🇭🇰 10 单机透明人🍋\noder｜🩸｜碎碎念｜小作文\n前世@Hemlock_113 (´；ω；｀)\n害怕社交 社交恐惧 只互fo同类\n无门 不接线下 被迫戒o戒割中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Hemlock_113"
+              }
+            ]
+          }
+        },
+        "id": "2069131894957191168",
+        "name": "凝檬_☆2.0",
+        "pinned_tweet_id": "2069139098594611364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069134933218705408/DX0rO-YL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 116,
+          "like_count": 276,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 393
+        },
+        "url": "",
+        "username": "Hemlock_114",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2077674748058956043",
+    "created_at": "2026-07-17T12:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T13:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078092835522232481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1992506703678705664",
+          "start": 0,
+          "username": "jingqngyng64121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078092835522232481",
+    "in_reply_to_user_id": "1992506703678705664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077674748058956043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingqngyng64121 鸡哥2.0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077674738516914176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNViKqwacAApYyL.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2077674748058956043",
+        "created_at": "2026-07-17T12:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078092835522232481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1992506703678705664",
+              "start": 0,
+              "username": "jingqngyng64121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078092835522232481",
+        "in_reply_to_user_id": "1992506703678705664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077674748058956043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingqngyng64121 鸡哥2.0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077674738516914176"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2077674748058956043",
+        "created_at": "2026-07-16T08:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077674748058956043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/joZJtzGZxl",
+              "end": 34,
+              "expanded_url": "https://x.com/jingqngyng64121/status/2077674748058956043/photo/1",
+              "media_key": "3_2077674738516914176",
+              "start": 11,
+              "url": "https://t.co/joZJtzGZxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077674748058956043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 31236,
+          "like_count": 179,
+          "quote_count": 5,
+          "reply_count": 51,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "墙内的傻逼到底咋了啊 https://t.co/joZJtzGZxl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 213,
+          "like_count": 42137,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 3797
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 442,
+          "like_count": 8195,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1712
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      }
+    ]
+  }
+}

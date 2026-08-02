@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2081254775320969416",
+    "created_at": "2026-07-26T05:46:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T06:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081254775320969416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1489468526826082312",
+          "start": 3,
+          "username": "Diamond_Kokoro"
+        },
+        {
+          "end": 36,
+          "id": "1695553771961729024",
+          "start": 20,
+          "username": "Shiraishiwatari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081254775320969416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081057484899557433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Diamond_Kokoro: @Shiraishiwatari 我毫不懷疑文化落後的地區有一部分跨性別和同性戀婚育為止都不知道自己是跨性別和同性戀，然而等他們知道的時候一切都晚了。如果小時候我沒有用隔壁手機店的電腦偷偷看藥娘四區百度貼吧，我可能也不會知道下一個接觸到「…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2081254775320969416",
+        "created_at": "2026-07-26T05:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081254775320969416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1489468526826082312",
+              "start": 3,
+              "username": "Diamond_Kokoro"
+            },
+            {
+              "end": 36,
+              "id": "1695553771961729024",
+              "start": 20,
+              "username": "Shiraishiwatari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081254775320969416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081057484899557433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Diamond_Kokoro: @Shiraishiwatari 我毫不懷疑文化落後的地區有一部分跨性別和同性戀婚育為止都不知道自己是跨性別和同性戀，然而等他們知道的時候一切都晚了。如果小時候我沒有用隔壁手機店的電腦偷偷看藥娘四區百度貼吧，我可能也不會知道下一個接觸到「…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2081055796075385279",
+        "created_at": "2026-07-25T16:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081057484899557433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1695553771961729024",
+              "start": 0,
+              "username": "Shiraishiwatari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081057484899557433",
+        "in_reply_to_user_id": "1695553771961729024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 448,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081055796075385279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shiraishiwatari 我毫不懷疑文化落後的地區有一部分跨性別和同性戀婚育為止都不知道自己是跨性別和同性戀，然而等他們知道的時候一切都晚了。如果小時候我沒有用隔壁手機店的電腦偷偷看藥娘四區百度貼吧，我可能也不會知道下一個接觸到「跨性別」概念的機會會是什麼時候。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 217,
+          "like_count": 42442,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 3869
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "我的愛人是我的故土、我的歸宿，我的民族、我的祖國。@irisdesombres。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "鴉尾羽",
+        "pinned_tweet_id": "2057399428529672567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080996514063945728/AmqDpRaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 190,
+          "like_count": 14390,
+          "listed_count": 3,
+          "media_count": 412,
+          "tweet_count": 9781
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-26T21:48:32.000Z",
+        "description": "我的性别认同是性别不认同\n特别喜欢用引号\n支持用“你”和“他”指代一切有性别无性别的人类",
+        "id": "1695553771961729024",
+        "name": "白石渡",
+        "pinned_tweet_id": "2066628011126927465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866204965921816576/ZEtERUnz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 57,
+          "like_count": 7741,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 2573
+        },
+        "url": "",
+        "username": "Shiraishiwatari",
+        "verified": false
+      }
+    ]
+  }
+}

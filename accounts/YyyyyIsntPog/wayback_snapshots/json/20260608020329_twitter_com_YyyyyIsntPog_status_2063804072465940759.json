@@ -1,0 +1,535 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Adult animated web series",
+          "id": "1444041626402234368",
+          "name": "Helluva Boss"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311833593282560",
+          "name": "Adult animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1444044792988459009",
+          "name": "Helluva Boss"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1444044792988459009",
+          "name": "Helluva Boss"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2063804072465940759",
+    "created_at": "2026-06-08T02:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063804072465940759"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/impmurderpros/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/impmurderpros/status/2063304915951272229",
+          "start": 6,
+          "url": "https://t.co/ZG2ifnIDJk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063804072465940759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063304915951272229",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽我生日 https://t.co/ZG2ifnIDJk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3507,
+        "media_key": "3_2062665491492306944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKAPVgbbAAA1IN3.jpg",
+        "width": 2481
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444041626402234368",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444044792988459009",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444044792988459009",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2063804072465940759",
+        "created_at": "2026-06-08T02:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063804072465940759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/impmurderpros/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/impmurderpros/status/2063304915951272229",
+              "start": 6,
+              "url": "https://t.co/ZG2ifnIDJk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063804072465940759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063304915951272229",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽我生日 https://t.co/ZG2ifnIDJk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062665491492306944"
+          ]
+        },
+        "author_id": "1195216443958104065",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444041626402234368",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444044792988459009",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444044792988459009",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2063304915951272229",
+        "created_at": "2026-06-06T17:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063304915951272229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/McQ3Xudmmy",
+              "end": 92,
+              "expanded_url": "https://x.com/IMPmurderpros/status/2063304915951272229/photo/1",
+              "media_key": "3_2062665491492306944",
+              "start": 69,
+              "url": "https://t.co/McQ3Xudmmy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063304915951272229",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1317,
+          "impression_count": 283212,
+          "like_count": 13554,
+          "quote_count": 213,
+          "reply_count": 197,
+          "retweet_count": 2232
+        },
+        "reply_settings": "everyone",
+        "text": "Hang in there! A new Helluva Boss short drops June 13th on YouTube 📝 https://t.co/McQ3Xudmmy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "视奸死全家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/ZWBiQONTCQ"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 215,
+          "like_count": 42151,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 3727
+        },
+        "url": "https://t.co/ZWBiQONTCQ",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-15T05:47:04.000Z",
+        "description": "R u in hell and need someone less alive? We can do that!!\nWe R the IMmEDIATE MuRDeR PROFFESsiONALS\nHIRE US -xoxo Blitz \n🤡😈👍🔪\nOfficial #HelluvaBoss twitter!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 146,
+                "start": 134,
+                "tag": "HelluvaBoss"
+              }
+            ]
+          }
+        },
+        "id": "1195216443958104065",
+        "location": "Helliverse",
+        "name": "Helluva Boss",
+        "pinned_tweet_id": "2063304915951272229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1195561797115240448/lfBqJk45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839023,
+          "following_count": 61,
+          "like_count": 1438,
+          "listed_count": 592,
+          "media_count": 173,
+          "tweet_count": 897
+        },
+        "username": "IMPmurderpros",
+        "verified": false
+      }
+    ]
+  }
+}

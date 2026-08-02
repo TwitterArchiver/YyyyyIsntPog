@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2082276979961655421",
+    "created_at": "2026-07-29T01:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T02:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082276979961655421"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/albert_c_anker…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/albert_c_anker/status/2081882871955096022",
+          "start": 23,
+          "url": "https://t.co/Mz6f5KoeGJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082276979961655421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081882871955096022",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去哪里还可以卖血我也想去（）少割几次手的事 https://t.co/Mz6f5KoeGJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2082276979961655421",
+        "created_at": "2026-07-29T01:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082276979961655421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/albert_c_anker…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/albert_c_anker/status/2081882871955096022",
+              "start": 23,
+              "url": "https://t.co/Mz6f5KoeGJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082276979961655421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081882871955096022",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去哪里还可以卖血我也想去（）少割几次手的事 https://t.co/Mz6f5KoeGJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992300667395092480",
+        "conversation_id": "2081882871955096022",
+        "created_at": "2026-07-27T23:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T00:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081882871955096022"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081882871955096022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2176,
+          "like_count": 14,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "现在卖个血竞争压力也这么大啊，四点多就起床赶地铁早班车过来医院结果已经一堆人了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 218,
+          "like_count": 42491,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3878
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T18:34:34.000Z",
+        "description": "怪话制造机&伪人日记本|消极虚无主义者|默认友好基本无雷|不关心政治|INFJ sp/so5w6|Aspie&Asexual|社交电量低|看我不爽建议去死|第二人格@theLostCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "theLostCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StopOverThinkin",
+                "end": 23,
+                "expanded_url": "https://t.me/StopOverThinkin",
+                "start": 0,
+                "url": "https://t.co/IcuRbOjlYg"
+              }
+            ]
+          }
+        },
+        "id": "1992300667395092480",
+        "location": "Tromsø, Norway",
+        "name": "伪人阿尔伯特",
+        "pinned_tweet_id": "2042353903682142500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022152434731335680/7w9oGGgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 239,
+          "like_count": 13071,
+          "listed_count": 1,
+          "media_count": 376,
+          "tweet_count": 2337
+        },
+        "url": "https://t.co/IcuRbOjlYg",
+        "username": "Albert_C_Anker",
+        "verified": false
+      }
+    ]
+  }
+}

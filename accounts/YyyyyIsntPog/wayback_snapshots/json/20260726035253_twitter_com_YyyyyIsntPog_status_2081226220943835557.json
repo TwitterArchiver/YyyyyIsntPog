@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2081226220943835557",
+    "created_at": "2026-07-26T03:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T04:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081226220943835557"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lxl0102/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/lxl0102/status/2080982238431436983",
+          "start": 3,
+          "url": "https://t.co/DqQG8Dw5Yn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081226220943835557",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080982238431436983",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去 https://t.co/DqQG8Dw5Yn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080982228864266240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEiT8da8AAgMN7.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080982228843335680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEiT8YbkAAysEw.jpg",
+        "width": 942
+      },
+      {
+        "height": 1184,
+        "media_key": "3_2080982228876886016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEiT8gbgAADBau.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2081226220943835557",
+        "created_at": "2026-07-26T03:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081226220943835557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lxl0102/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/lxl0102/status/2080982238431436983",
+              "start": 3,
+              "url": "https://t.co/DqQG8Dw5Yn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081226220943835557",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080982238431436983",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去 https://t.co/DqQG8Dw5Yn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080982228864266240",
+            "3_2080982228843335680",
+            "3_2080982228876886016"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "2080982238431436983",
+        "created_at": "2026-07-25T11:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080982238431436983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fg17UxGgsJ",
+              "end": 43,
+              "expanded_url": "https://x.com/LXL0102/status/2080982238431436983/photo/1",
+              "media_key": "3_2080982228864266240",
+              "start": 20,
+              "url": "https://t.co/fg17UxGgsJ"
+            },
+            {
+              "display_url": "pic.x.com/fg17UxGgsJ",
+              "end": 43,
+              "expanded_url": "https://x.com/LXL0102/status/2080982238431436983/photo/1",
+              "media_key": "3_2080982228843335680",
+              "start": 20,
+              "url": "https://t.co/fg17UxGgsJ"
+            },
+            {
+              "display_url": "pic.x.com/fg17UxGgsJ",
+              "end": 43,
+              "expanded_url": "https://x.com/LXL0102/status/2080982238431436983/photo/1",
+              "media_key": "3_2080982228876886016",
+              "start": 20,
+              "url": "https://t.co/fg17UxGgsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080982238431436983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 569581,
+          "like_count": 2437,
+          "quote_count": 43,
+          "reply_count": 563,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "一滴泪吉他张这帮傻逼终于要被封杀了🎉🎉 https://t.co/fg17UxGgsJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 215,
+          "like_count": 42265,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 3837
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定||有男友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMQFx"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "2044418589713973522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077418787192942592/nebR4rXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2116,
+          "following_count": 373,
+          "like_count": 1698,
+          "listed_count": 4,
+          "media_count": 481,
+          "tweet_count": 3612
+        },
+        "url": "https://t.co/k0zhGfMQFx",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

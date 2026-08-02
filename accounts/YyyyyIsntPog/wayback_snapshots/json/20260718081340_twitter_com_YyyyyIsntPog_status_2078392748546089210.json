@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2078392748546089210",
+    "created_at": "2026-07-18T08:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078392748546089210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yume33550336/s…",
+          "end": 136,
+          "expanded_url": "https://twitter.com/yume33550336/status/2077799745268121711",
+          "start": 113,
+          "url": "https://t.co/jGhSAbvM9z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078392748546089210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077799745268121711",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说到这个我想起来以前在多意识体wiki词条发现过一条概念 忘了具体叫什么了总之就是可以在幻境里制造自动运行的模块（也许类似于傀儡但是比那个还没有“人”的概念？） 进阶版可以连起来让某些系统自动运行 但是圈内好像没看见人提到过 https://t.co/jGhSAbvM9z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2078392748546089210",
+        "created_at": "2026-07-18T08:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078392748546089210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yume33550336/s…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/yume33550336/status/2077799745268121711",
+              "start": 113,
+              "url": "https://t.co/jGhSAbvM9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078392748546089210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077799745268121711",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说到这个我想起来以前在多意识体wiki词条发现过一条概念 忘了具体叫什么了总之就是可以在幻境里制造自动运行的模块（也许类似于傀儡但是比那个还没有“人”的概念？） 进阶版可以连起来让某些系统自动运行 但是圈内好像没看见人提到过 https://t.co/jGhSAbvM9z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999862284500488192",
+        "conversation_id": "2077799745268121711",
+        "created_at": "2026-07-16T16:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077799745268121711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077799745268121711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "多意识体系统和操作系统都是系统*暴论"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 213,
+          "like_count": 42191,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 3808
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T15:21:50.000Z",
+        "description": "*dreamland system\n*inner world：@yumek496\n*lovers: @SarahAguil32516 @miruku2937",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "yumek496"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "SarahAguil32516"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "miruku2937"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitashioyume.github.io",
+                "end": 23,
+                "expanded_url": "http://kitashioyume.github.io",
+                "start": 0,
+                "url": "https://t.co/n2vIYGSJ6k"
+              }
+            ]
+          }
+        },
+        "id": "1999862284500488192",
+        "name": "Kitashio Yume",
+        "pinned_tweet_id": "2071067138966831121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071072896664104960/XV-dO9FM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 436,
+          "like_count": 4393,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 3160
+        },
+        "url": "https://t.co/n2vIYGSJ6k",
+        "username": "Yume33550336",
+        "verified": false
+      }
+    ]
+  }
+}

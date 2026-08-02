@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2081228126084870400",
+    "created_at": "2026-07-26T04:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T05:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081228126084870400"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kiyoshiaufzju/…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/kiyoshiaufzju/status/2080313481849643106",
+          "start": 45,
+          "url": "https://t.co/lcZawIYYMp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081228126084870400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080313481849643106",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这他妈啥我没看懂 原po不是mtf吗咋生的 总不会是此人把别的afab法了对方生的吧…… https://t.co/lcZawIYYMp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1445,
+        "media_key": "3_2080313477667893248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7CFgHaMAAV_Lp.jpg",
+        "width": 1088
+      },
+      {
+        "height": 941,
+        "media_key": "3_2080313478624186368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7CFjraEAAQTOI.jpg",
+        "width": 1672
+      },
+      {
+        "height": 1049,
+        "media_key": "3_2080313478368403456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7CFiubIAAXlrp.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2081228126084870400",
+        "created_at": "2026-07-26T04:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081228126084870400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kiyoshiaufzju/…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/kiyoshiaufzju/status/2080313481849643106",
+              "start": 45,
+              "url": "https://t.co/lcZawIYYMp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081228126084870400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080313481849643106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这他妈啥我没看懂 原po不是mtf吗咋生的 总不会是此人把别的afab法了对方生的吧…… https://t.co/lcZawIYYMp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080313477667893248",
+            "3_2080313478624186368",
+            "3_2080313478368403456"
+          ]
+        },
+        "author_id": "2079365089334112256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080313481849643106",
+        "created_at": "2026-07-23T15:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080313481849643106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BghksFBkm6",
+              "end": 85,
+              "expanded_url": "https://x.com/Kiyoshiaufzju/status/2080313481849643106/photo/1",
+              "media_key": "3_2080313477667893248",
+              "start": 62,
+              "url": "https://t.co/BghksFBkm6"
+            },
+            {
+              "display_url": "pic.x.com/BghksFBkm6",
+              "end": 85,
+              "expanded_url": "https://x.com/Kiyoshiaufzju/status/2080313481849643106/photo/1",
+              "media_key": "3_2080313478624186368",
+              "start": 62,
+              "url": "https://t.co/BghksFBkm6"
+            },
+            {
+              "display_url": "pic.x.com/BghksFBkm6",
+              "end": 85,
+              "expanded_url": "https://x.com/Kiyoshiaufzju/status/2080313481849643106/photo/1",
+              "media_key": "3_2080313478368403456",
+              "start": 62,
+              "url": "https://t.co/BghksFBkm6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080313481849643106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 163310,
+          "like_count": 188,
+          "quote_count": 27,
+          "reply_count": 164,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "生下来了    10年小姑娘喜提男宝宝   我让护士给我拍的   护士把我拍的好迷茫😅不过我也是有孩子的人了   晚安各位 https://t.co/BghksFBkm6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 215,
+          "like_count": 42276,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 3842
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-21T00:38:39.000Z",
+        "description": "原@666666666ZT账号被我自愿冻结，现号是二代目，生产日期2010年7月1日",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "666666666ZT"
+              }
+            ]
+          }
+        },
+        "id": "2079365089334112256",
+        "name": "电子爱好者清正🍥🏳️‍⚧️（二代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079365529480118273/gD1bMelp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 146,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "Kiyoshiaufzju",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2076225651523133939",
+    "created_at": "2026-07-12T08:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T09:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076225651523133939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ashasw114514/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/ashasw114514/status/2075576623345381808",
+          "start": 15,
+          "url": "https://t.co/TobQ9xuFqS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076225651523133939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075576623345381808",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "前两天感冒刚做（。）不过没阳 https://t.co/TobQ9xuFqS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2076225651523133939",
+        "created_at": "2026-07-12T08:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076225651523133939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ashasw114514/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/ashasw114514/status/2075576623345381808",
+              "start": 15,
+              "url": "https://t.co/TobQ9xuFqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076225651523133939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075576623345381808",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前两天感冒刚做（。）不过没阳 https://t.co/TobQ9xuFqS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981638054688501760",
+        "conversation_id": "2075576623345381808",
+        "created_at": "2026-07-10T13:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075576623345381808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075576623345381808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 150176,
+          "like_count": 2198,
+          "quote_count": 13,
+          "reply_count": 219,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "某天的一个下午，你并没有意识到你做完了人生的最后一次核酸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 214,
+          "like_count": 42137,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 3766
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52\n@dual_runplex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "dual_runplex"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4798,
+          "following_count": 3604,
+          "like_count": 8573,
+          "listed_count": 10,
+          "media_count": 724,
+          "tweet_count": 6186
+        },
+        "url": "",
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

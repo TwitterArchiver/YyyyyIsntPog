@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2082277651100606824",
+    "created_at": "2026-07-29T01:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T02:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082277651100606824"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aubreycamilleu…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/aubreycamilleuu/status/2082162299058667976",
+          "start": 60,
+          "url": "https://t.co/H7VXigDtmI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082277651100606824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082162299058667976",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傻逼吧什么年代还讲究女士优先，又不是体力劳动之类amab耐受力先天高于afab的活动，生死面前人人平等不是这么平等的吧 https://t.co/H7VXigDtmI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2082277651100606824",
+        "created_at": "2026-07-29T01:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082277651100606824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aubreycamilleu…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/aubreycamilleuu/status/2082162299058667976",
+              "start": 60,
+              "url": "https://t.co/H7VXigDtmI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082277651100606824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082162299058667976",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻逼吧什么年代还讲究女士优先，又不是体力劳动之类amab耐受力先天高于afab的活动，生死面前人人平等不是这么平等的吧 https://t.co/H7VXigDtmI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2082162297410371584"
+          ]
+        },
+        "author_id": "2046283772455485440",
+        "conversation_id": "2082162299058667976",
+        "created_at": "2026-07-28T17:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082162299058667976"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082162299058667976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 360,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想邀请跨女朋友们做一个很糟糕的思想实验。假如你所在的学校受到洪灾影响，救援人员要求女生先行撤离，男生殿后。你此时是一个未术跨女，救援人员认为你是顺女，要求你跟随其他女生一起离开；而同学们都知道你是“男生”，他们可能会私下议论这件事，但没有人打算立刻“戳穿”你。此时你会选择怎么做？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 218,
+          "like_count": 42497,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3879
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T17:44:16.000Z",
+        "description": "跨女宝宝们请跟我玩。",
+        "id": "2046283772455485440",
+        "name": "沅子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069385662277754880/WVsxZWOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 176,
+          "like_count": 1106,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 367
+        },
+        "url": "",
+        "username": "AubreyCamilleuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2081253928012796325",
+    "created_at": "2026-07-26T05:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T06:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081253928012796325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yyyyyisntpog/s…",
+          "end": 147,
+          "expanded_url": "https://twitter.com/yyyyyisntpog/status/2081252646900437073",
+          "start": 124,
+          "url": "https://t.co/Y53T0KYKjf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081253928012796325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081252646900437073",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果有人说那恋童癖就是犯罪率高啊我一棒子打死怎么了那任何少数群体的权益是不是都不会被他们重视。说性少数不被看见正常啊因为大多数人都是顺直。说mtf开出喵喵叫性压抑猎奇抽象国男概率太高了所以mtf都滚。低学历技校出身摇奶茶绝对人品不好。这难道合理吗 https://t.co/Y53T0KYKjf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2081253928012796325",
+        "created_at": "2026-07-26T05:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081253928012796325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yyyyyisntpog/s…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/yyyyyisntpog/status/2081252646900437073",
+              "start": 124,
+              "url": "https://t.co/Y53T0KYKjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081253928012796325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081252646900437073",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果有人说那恋童癖就是犯罪率高啊我一棒子打死怎么了那任何少数群体的权益是不是都不会被他们重视。说性少数不被看见正常啊因为大多数人都是顺直。说mtf开出喵喵叫性压抑猎奇抽象国男概率太高了所以mtf都滚。低学历技校出身摇奶茶绝对人品不好。这难道合理吗 https://t.co/Y53T0KYKjf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2081251968685576638",
+        "created_at": "2026-07-26T05:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081252646900437073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081252646900437073",
+        "in_reply_to_user_id": "1889313848668090368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081251968685576638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我几年前在知乎上看到过一个回答。一个人因为童年性经历创伤变成了恋童癖但是一直在克制自己的欲望很痛苦也没有犯罪，误打误撞进入一个有恋童视频的群把信息都举报给警察处理了。就是因为有这种人的存在我一直觉得“赛博恋童就是有罪”这个说法是错误的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 217,
+          "like_count": 42432,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 3867
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      }
+    ]
+  }
+}

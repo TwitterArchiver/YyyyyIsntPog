@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2082271813027995720",
+    "created_at": "2026-07-29T01:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T02:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082271813027995720"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qngshu98872342…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/qngshu988723424/status/2082036568001519961",
+          "start": 14,
+          "url": "https://t.co/QCCdrGXiBj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082271813027995720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082036568001519961",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "苦难也要拿来比较吗.jpg https://t.co/QCCdrGXiBj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2082271813027995720",
+        "created_at": "2026-07-29T01:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082271813027995720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qngshu98872342…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/qngshu988723424/status/2082036568001519961",
+              "start": 14,
+              "url": "https://t.co/QCCdrGXiBj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082271813027995720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082036568001519961",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "苦难也要拿来比较吗.jpg https://t.co/QCCdrGXiBj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801534903626121216",
+        "conversation_id": "2082036568001519961",
+        "created_at": "2026-07-28T09:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082036568001519961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082036568001519961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 666,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说真的什么时候停止讨论ftm和mtf以及别的哪个处境更艰难的话题，这个真的太难看了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 216,
+          "like_count": 42434,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 3870
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T08:39:35.000Z",
+        "description": "enby/和鸟每天抢吃的/一分钟发八条/说话很人机可能博关注,谢谢你们祝你们身体健康可能🩸💊内容||                                  @Ace_Purin←点击关注布丁谢谢喵，这个是很可爱说话也很萌的人。可以多和她互动！这个布丁很好互动也很有意思，我最喜欢这个人，希望我们都能开心。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "Ace_Purin"
+              }
+            ]
+          }
+        },
+        "id": "1801534903626121216",
+        "location": "鸟笼",
+        "name": "rotaka",
+        "pinned_tweet_id": "2039361438062723095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017539398498455559/yoqs9-Hg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 833,
+          "like_count": 10669,
+          "listed_count": 2,
+          "media_count": 741,
+          "tweet_count": 9382
+        },
+        "url": "",
+        "username": "qngshu988723424",
+        "verified": false
+      }
+    ]
+  }
+}

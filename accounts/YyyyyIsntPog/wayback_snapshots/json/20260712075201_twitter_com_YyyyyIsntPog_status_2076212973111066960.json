@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1509250779147739137",
+          "name": "Tubbo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1509250779147739137",
+          "name": "Tubbo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1509250779147739137",
+          "name": "Tubbo"
+        }
+      }
+    ],
+    "conversation_id": "2075945366470402049",
+    "created_at": "2026-07-12T07:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T08:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076212973111066960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1386661611260284929",
+          "start": 0,
+          "username": "TubboTWO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076212973111066960",
+    "in_reply_to_user_id": "1386661611260284929",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075945366470402049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TubboTWO trueeeeee\nSomeone larping your dead friend and make money and clout from it wtf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1509250779147739137",
+              "name": "Tubbo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1509250779147739137",
+              "name": "Tubbo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509250779147739137",
+              "name": "Tubbo"
+            }
+          }
+        ],
+        "conversation_id": "2075945366470402049",
+        "created_at": "2026-07-12T07:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076212973111066960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1386661611260284929",
+              "start": 0,
+              "username": "TubboTWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076212973111066960",
+        "in_reply_to_user_id": "1386661611260284929",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075945366470402049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TubboTWO trueeeeee\nSomeone larping your dead friend and make money and clout from it wtf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386661611260284929",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1509250779147739137",
+              "name": "Tubbo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1509250779147739137",
+              "name": "Tubbo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509250779147739137",
+              "name": "Tubbo"
+            }
+          }
+        ],
+        "conversation_id": "2075945366470402049",
+        "created_at": "2026-07-11T14:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075945366470402049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075945366470402049",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1204,
+          "impression_count": 1057449,
+          "like_count": 42897,
+          "quote_count": 239,
+          "reply_count": 388,
+          "retweet_count": 3358
+        },
+        "reply_settings": "everyone",
+        "text": "is it safe to say I'm really not sure im a fan of this whole larp account trend thing? it just feels off"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 212,
+          "like_count": 42026,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 3745
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T12:41:15.000Z",
+        "description": "I make videos https://t.co/xYSyN6jEwi\nBusiness Inquiries: tubbo@timbers.studio",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "play.hosting",
+                "end": 37,
+                "expanded_url": "http://play.hosting",
+                "start": 14,
+                "url": "https://t.co/xYSyN6jEwi"
+              }
+            ]
+          }
+        },
+        "id": "1386661611260284929",
+        "name": "Tubbo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769753918806822912/Zf7XQG5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677951,
+          "following_count": 28,
+          "like_count": 2231,
+          "listed_count": 2775,
+          "media_count": 891,
+          "tweet_count": 3001
+        },
+        "url": "",
+        "username": "TubboTWO",
+        "verified": true
+      }
+    ]
+  }
+}

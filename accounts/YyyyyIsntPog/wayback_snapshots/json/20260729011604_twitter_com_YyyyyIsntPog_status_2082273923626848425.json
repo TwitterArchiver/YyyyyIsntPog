@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2082273923626848425",
+    "created_at": "2026-07-29T01:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T02:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082273923626848425"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_medusozo…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/amber_medusozoa/status/2081949963425083579",
+          "start": 5,
+          "url": "https://t.co/GQZfqrU6dO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082273923626848425",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081949963425083579",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了 https://t.co/GQZfqrU6dO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2082273923626848425",
+        "created_at": "2026-07-29T01:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082273923626848425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2081949963425083579",
+              "start": 5,
+              "url": "https://t.co/GQZfqrU6dO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082273923626848425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081949963425083579",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了 https://t.co/GQZfqrU6dO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2081949963425083579",
+        "created_at": "2026-07-28T03:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081949963425083579"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081949963425083579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2714,
+          "like_count": 76,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性别研究就是个骗子学科，我就靠学这种骗子学科提供的骗子知识继续当骗子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 217,
+          "like_count": 42468,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3875
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/xfNnH3omFP"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2080801154435326152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080483846097629184/ano5UN60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7491,
+          "following_count": 1203,
+          "like_count": 7293,
+          "listed_count": 11,
+          "media_count": 360,
+          "tweet_count": 4141
+        },
+        "url": "https://t.co/xfNnH3omFP",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2081235152626151696",
+    "created_at": "2026-07-26T04:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T05:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081235152626151696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0voki33me/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/0voki33me/status/2080834528130855008",
+          "start": 16,
+          "url": "https://t.co/HPHQ6axG7D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081235152626151696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080834528130855008",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "凭看病记录可以领普瑞巴林皮肤吗 https://t.co/HPHQ6axG7D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080834520165892096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOCb-KrbwAASuYy.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2081235152626151696",
+        "created_at": "2026-07-26T04:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081235152626151696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0voki33me/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/0voki33me/status/2080834528130855008",
+              "start": 16,
+              "url": "https://t.co/HPHQ6axG7D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081235152626151696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080834528130855008",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "凭看病记录可以领普瑞巴林皮肤吗 https://t.co/HPHQ6axG7D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080834520165892096"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080834528130855008",
+        "created_at": "2026-07-25T01:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080834528130855008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ryLvE6x4M",
+              "end": 31,
+              "expanded_url": "https://x.com/0voki33Me/status/2080834528130855008/photo/1",
+              "media_key": "3_2080834520165892096",
+              "start": 8,
+              "url": "https://t.co/0ryLvE6x4M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080834528130855008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2863,
+          "like_count": 40,
+          "quote_count": 3,
+          "reply_count": 27,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "上海精卫有福了 https://t.co/0ryLvE6x4M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 216,
+          "like_count": 42332,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 3854
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发｜本号乃💊🩸TV 谨慎关注｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 1147,
+          "like_count": 7082,
+          "listed_count": 1,
+          "media_count": 384,
+          "tweet_count": 7382
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

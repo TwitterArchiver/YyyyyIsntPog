@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2078399094070915389",
+    "created_at": "2026-07-18T08:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078399304490754422"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078399304490754422",
+    "in_reply_to_user_id": "1889313848668090368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078399094070915389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "y：顶着gd拍照\n前朋友：在约一个月后单删我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2078399094070915389",
+        "created_at": "2026-07-18T08:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078399304490754422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078399304490754422",
+        "in_reply_to_user_id": "1889313848668090368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078399094070915389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "y：顶着gd拍照\n前朋友：在约一个月后单删我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2078399094070915389",
+        "created_at": "2026-07-18T08:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078399094070915389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuanyilingyi/s…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/yuanyilingyi/status/2078261380768215292",
+              "start": 73,
+              "url": "https://t.co/oRopXaBWW7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078399094070915389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078261380768215292",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欧坤我是小男娘\n（勾起了不好的回忆）他妈的你说我们是最好的朋友后来让我发腿我真他妈发了因为我觉得要满足朋友的要求然后这几把人后来莫名其妙把我删了 https://t.co/oRopXaBWW7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 213,
+          "like_count": 42220,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 3817
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      }
+    ]
+  }
+}

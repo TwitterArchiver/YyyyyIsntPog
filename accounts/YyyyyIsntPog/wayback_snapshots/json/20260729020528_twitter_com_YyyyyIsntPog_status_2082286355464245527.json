@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2082286355464245527",
+    "created_at": "2026-07-29T02:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T03:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082286355464245527"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gdioiui/status…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/gdioiui/status/2081766940000027098",
+          "start": 24,
+          "url": "https://t.co/a4GhMVqxkj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082286355464245527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081766940000027098",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "会遇不到最可爱的妻子\n但相对的自杀了会很舒服（ https://t.co/a4GhMVqxkj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 486,
+        "media_key": "3_2081766934576832512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPr_1CbIAAYmbp.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2082286355464245527",
+        "created_at": "2026-07-29T02:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082286355464245527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/gdioiui/status/2081766940000027098",
+              "start": 24,
+              "url": "https://t.co/a4GhMVqxkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082286355464245527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081766940000027098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "会遇不到最可爱的妻子\n但相对的自杀了会很舒服（ https://t.co/a4GhMVqxkj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081766934576832512"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081766940000027098",
+        "created_at": "2026-07-27T15:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081766940000027098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O4xooDDrOt",
+              "end": 45,
+              "expanded_url": "https://x.com/gdioiui/status/2081766940000027098/photo/1",
+              "media_key": "3_2081766934576832512",
+              "start": 22,
+              "url": "https://t.co/O4xooDDrOt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081766940000027098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9017,
+          "like_count": 52,
+          "quote_count": 9,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果一年前你自杀了，你会错过多少有趣的事情 https://t.co/O4xooDDrOt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 218,
+          "like_count": 42599,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3889
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2507,
+          "following_count": 491,
+          "like_count": 4734,
+          "listed_count": 4,
+          "media_count": 1654,
+          "tweet_count": 8525
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

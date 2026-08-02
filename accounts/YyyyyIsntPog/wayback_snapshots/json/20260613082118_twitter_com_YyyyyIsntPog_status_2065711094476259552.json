@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2065711094476259552",
+    "created_at": "2026-06-13T08:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T09:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065711094476259552"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065711094476259552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "创伤周年反应我操你妈。已严肃跳过六月增加十三月在我的日历中以规避。\n（好孩子不要学这个方法其实没用。因为大脑会自动计数。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2065711094476259552",
+        "created_at": "2026-06-13T08:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065711094476259552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065711094476259552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "创伤周年反应我操你妈。已严肃跳过六月增加十三月在我的日历中以规避。\n（好孩子不要学这个方法其实没用。因为大脑会自动计数。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "视奸死全家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/ZWBiQONTCQ"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 212,
+          "like_count": 42105,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 3729
+        },
+        "url": "https://t.co/ZWBiQONTCQ",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      }
+    ]
+  }
+}

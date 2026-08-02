@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2081227273902960885",
+    "created_at": "2026-07-26T03:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T04:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081227273902960885"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sonogamirinnet…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/sonogamirinnets/status/2080924368470003899",
+          "start": 4,
+          "url": "https://t.co/E6wxjrQKWZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081227273902960885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080924368470003899",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还真是 https://t.co/E6wxjrQKWZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2081227273902960885",
+        "created_at": "2026-07-26T03:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081227273902960885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sonogamirinnet…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/sonogamirinnets/status/2080924368470003899",
+              "start": 4,
+              "url": "https://t.co/E6wxjrQKWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081227273902960885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080924368470003899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还真是 https://t.co/E6wxjrQKWZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701484460250890240",
+        "conversation_id": "2080924368470003899",
+        "created_at": "2026-07-25T07:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080924368470003899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080924368470003899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 6114,
+          "like_count": 263,
+          "quote_count": 2,
+          "reply_count": 63,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我们应该是全世界唯一一个从官方到民间都是一边打压性少数群体，一边不愿意承认自己打压的国家了。其他国家，不管亚非拉落后国家还是西方发达国家的保守势力，基本都是理直气壮反LGBT，甚至唯恐天下人不知\n\n说明国内很多人是，知道这样做不对，却明知故犯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 215,
+          "like_count": 42272,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 3840
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5218,
+          "following_count": 3851,
+          "like_count": 1555,
+          "listed_count": 19,
+          "media_count": 297,
+          "tweet_count": 2066
+        },
+        "url": "",
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

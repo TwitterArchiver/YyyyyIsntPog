@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2077357306031833133",
+    "created_at": "2026-07-15T11:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T12:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077357306031833133"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3starranker/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/3starranker/status/2076885587336790346",
+          "start": 12,
+          "url": "https://t.co/kYpDQ1ZwTD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077357306031833133",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076885587336790346",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "finally POG https://t.co/kYpDQ1ZwTD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1029,
+        "media_key": "3_2076885581473177600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKUbrrW4AA7XqD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2077357306031833133",
+        "created_at": "2026-07-15T11:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077357306031833133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3starranker/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/3starranker/status/2076885587336790346",
+              "start": 12,
+              "url": "https://t.co/kYpDQ1ZwTD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077357306031833133",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076885587336790346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "finally POG https://t.co/kYpDQ1ZwTD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076885581473177600"
+          ]
+        },
+        "author_id": "2023004691949551616",
+        "conversation_id": "2076885587336790346",
+        "created_at": "2026-07-14T04:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076885587336790346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8exlCcGml",
+              "end": 55,
+              "expanded_url": "https://x.com/3StarRanker/status/2076885587336790346/photo/1",
+              "media_key": "3_2076885581473177600",
+              "start": 32,
+              "url": "https://t.co/c8exlCcGml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076885587336790346",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1683,
+          "impression_count": 1322899,
+          "like_count": 27693,
+          "quote_count": 177,
+          "reply_count": 144,
+          "retweet_count": 710
+        },
+        "reply_settings": "everyone",
+        "text": "Technodad has told him to stop. https://t.co/c8exlCcGml"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 214,
+          "like_count": 42167,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 3784
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-15T12:01:45.000Z",
+        "description": "https://t.co/4ZZFBwbquQ 🐷 https://t.co/kB0irEY4Uj 🗿 https://t.co/qFbmLJCWKH 👈",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tenor.com/users/3starr",
+                "end": 23,
+                "expanded_url": "https://tenor.com/users/3starr",
+                "start": 0,
+                "url": "https://t.co/4ZZFBwbquQ"
+              },
+              {
+                "display_url": "tenor.com/users/ugly_ske…",
+                "end": 49,
+                "expanded_url": "https://tenor.com/users/ugly_skelly",
+                "start": 26,
+                "url": "https://t.co/kB0irEY4Uj"
+              },
+              {
+                "display_url": "vm.tiktok.com/ZNRsTrRKR",
+                "end": 75,
+                "expanded_url": "https://vm.tiktok.com/ZNRsTrRKR",
+                "start": 52,
+                "url": "https://t.co/qFbmLJCWKH"
+              }
+            ]
+          }
+        },
+        "id": "2023004691949551616",
+        "location": "⭐️⭐️⭐️",
+        "name": "TweetRanker🗿",
+        "pinned_tweet_id": "2071974669758922927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074501125210828800/iIzUiEq4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 403,
+          "like_count": 16090,
+          "listed_count": 1,
+          "media_count": 371,
+          "tweet_count": 718
+        },
+        "url": "",
+        "username": "3StarRanker",
+        "verified": false
+      }
+    ]
+  }
+}

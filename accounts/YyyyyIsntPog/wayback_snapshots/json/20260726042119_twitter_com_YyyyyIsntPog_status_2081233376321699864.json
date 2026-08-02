@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2081233376321699864",
+    "created_at": "2026-07-26T04:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T05:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081233376321699864"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/umansios0/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/umansios0/status/2080695037101305891",
+          "start": 5,
+          "url": "https://t.co/9Q4A4em7cg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081233376321699864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080695037101305891",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了 https://t.co/9Q4A4em7cg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2081233376321699864",
+        "created_at": "2026-07-26T04:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081233376321699864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/umansios0/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/umansios0/status/2080695037101305891",
+              "start": 5,
+              "url": "https://t.co/9Q4A4em7cg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081233376321699864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080695037101305891",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了 https://t.co/9Q4A4em7cg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "410818785",
+        "conversation_id": "2080695037101305891",
+        "created_at": "2026-07-24T16:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080695037101305891"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080695037101305891",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 795,
+          "impression_count": 609629,
+          "like_count": 59054,
+          "quote_count": 759,
+          "reply_count": 317,
+          "retweet_count": 17270
+        },
+        "reply_settings": "everyone",
+        "text": "Me impressiona gente com 13/14 anos engravidando, com essa idade eu tava tentando me matar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 216,
+          "like_count": 42316,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 3848
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-12T16:21:55.000Z",
+        "description": "de marte para a terra 👽\n\n@MIBR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 25,
+                "username": "MIBR"
+              }
+            ]
+          }
+        },
+        "id": "410818785",
+        "location": "São Paulo, Brasil",
+        "name": "Renan Callegari 🇧🇷",
+        "pinned_tweet_id": "1844032477406675216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074028659543887872/E4KyFpKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77070,
+          "following_count": 36292,
+          "like_count": 204347,
+          "listed_count": 11,
+          "media_count": 2979,
+          "tweet_count": 59978
+        },
+        "url": "",
+        "username": "umANSIOS0",
+        "verified": false
+      }
+    ]
+  }
+}

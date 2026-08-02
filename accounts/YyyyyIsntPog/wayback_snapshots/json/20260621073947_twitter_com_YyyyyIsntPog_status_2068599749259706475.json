@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2068599749259706475",
+    "created_at": "2026-06-21T07:39:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068599749259706475"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thug_business/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/thug_business/status/2068117876695806224",
+          "start": 5,
+          "url": "https://t.co/VfcxytPhM3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068599749259706475",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068117876695806224",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我本人： https://t.co/VfcxytPhM3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2068599749259706475",
+        "created_at": "2026-06-21T07:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068599749259706475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thug_business/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/thug_business/status/2068117876695806224",
+              "start": 5,
+              "url": "https://t.co/VfcxytPhM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068599749259706475",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068117876695806224",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本人： https://t.co/VfcxytPhM3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727199988734939136",
+        "conversation_id": "2068117876695806224",
+        "created_at": "2026-06-19T23:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T00:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068117876695806224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068117876695806224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2369,
+          "impression_count": 1123675,
+          "like_count": 10326,
+          "quote_count": 689,
+          "reply_count": 62,
+          "retweet_count": 1079
+        },
+        "reply_settings": "everyone",
+        "text": "部屋が汚いADHDは、お金がないくせに他人に対して異常なぐらい奢りたがるし、初対面でのコミュニケーションは得意なのに、持続的な人間関係は苦手だし、頭の中では次から次にアイデアが思いつくのに、「行動」に対してのストレスを感じて結局何もしないし、そのくせ「何者」かにはなりたがるし。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "视奸死全家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/ZWBiQONTCQ"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 212,
+          "like_count": 42107,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 3737
+        },
+        "url": "https://t.co/ZWBiQONTCQ",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T05:39:10.000Z",
+        "description": "テキトーでラフなADHD｜カフェイン中毒｜元多重債務者｜愛犬と生活中｜ADHDがほん𝓜𝓸𝓷𝓮𝔂最高な人生を送る為のライフハックやマインドを発信。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/thug_business/…",
+                "end": 23,
+                "expanded_url": "https://note.com/thug_business/membership?from=self&v=1",
+                "start": 0,
+                "url": "https://t.co/mYikX4Z0jH"
+              }
+            ]
+          }
+        },
+        "id": "1727199988734939136",
+        "location": "ADHDの生存戦略はコチラ👇🏿",
+        "name": "サグ",
+        "pinned_tweet_id": "2045484751281336609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067598328758759425/nWOXUWME_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22609,
+          "following_count": 452,
+          "like_count": 33246,
+          "listed_count": 94,
+          "media_count": 452,
+          "tweet_count": 16527
+        },
+        "url": "https://t.co/mYikX4Z0jH",
+        "username": "thug_business",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2076232137154371629",
+    "created_at": "2026-07-12T09:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T10:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076232137154371629"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shijixn2/statu…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/shijixn2/status/2075906004492198272",
+          "start": 34,
+          "url": "https://t.co/XjmbvqZYgM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076232137154371629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075906004492198272",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我有一天晚上11.30磕四颗布洛芬，第二天早上8点和9点又磕了十颗 https://t.co/XjmbvqZYgM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2075906000868282368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8ZgljbEAAruO1.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2076232137154371629",
+        "created_at": "2026-07-12T09:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076232137154371629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shijixn2/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/shijixn2/status/2075906004492198272",
+              "start": 34,
+              "url": "https://t.co/XjmbvqZYgM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076232137154371629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075906004492198272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我有一天晚上11.30磕四颗布洛芬，第二天早上8点和9点又磕了十颗 https://t.co/XjmbvqZYgM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075906000868282368"
+          ]
+        },
+        "author_id": "2075588279739842562",
+        "conversation_id": "2075811543435169848",
+        "created_at": "2026-07-11T11:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075906004492198272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "Yg_Xyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7yNHrM7jvt",
+              "end": 69,
+              "expanded_url": "https://x.com/shijixn2/status/2075906004492198272/photo/1",
+              "media_key": "3_2075906000868282368",
+              "start": 46,
+              "url": "https://t.co/7yNHrM7jvt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075906004492198272",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075811543435169848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yg_Xyn 男娘吗，我有一天晚上11.30磕四颗布洛芬，第二天早上8点和9点又磕了十颗 https://t.co/7yNHrM7jvt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 214,
+          "like_count": 42208,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 3779
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-10T14:30:42.000Z",
+        "description": "",
+        "id": "2075588279739842562",
+        "name": "世紀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075588708439617536/yIt38qH-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 53,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "shijixn2",
+        "verified": false
+      }
+    ]
+  }
+}

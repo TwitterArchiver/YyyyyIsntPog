@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2078395110408999065",
+    "created_at": "2026-07-18T08:23:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:23:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078395110408999065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_0mn0_/status/…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/_0mn0_/status/2031316634262983030",
+          "start": 23,
+          "url": "https://t.co/FanoNWSGda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078395110408999065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031316634262983030",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诶呦卧槽。虽然我不是很草这个柄。喜欢正剧向的 https://t.co/FanoNWSGda"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1122,
+        "media_key": "3_2031299358751387648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDCgASba8AAB1P_.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2078395110408999065",
+        "created_at": "2026-07-18T08:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078395110408999065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_0mn0_/status/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/_0mn0_/status/2031316634262983030",
+              "start": 23,
+              "url": "https://t.co/FanoNWSGda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078395110408999065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031316634262983030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶呦卧槽。虽然我不是很草这个柄。喜欢正剧向的 https://t.co/FanoNWSGda"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031299358751387648"
+          ]
+        },
+        "author_id": "342774617",
+        "conversation_id": "2031316634262983030",
+        "created_at": "2026-03-10T10:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T11:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031316634262983030"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "きたかわ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "※4/18追記 ご好評につき注文数が想定を上回ったため発送時期を分けて対応させていただきます。 【発送時期】 ・第1便：4月下旬 ・第2便：5月中旬 お待たせしてしまい恐縮ですが、到着まで楽しみにお待ちいただけますと幸いです🙇‍♀️ C100で頒布した愛吏とひなこのアクリルフィギュアです。 ※原材料価格の変動により、販売当初より価格を調整しております。あらかじめご了承ください。 ■商品仕様 ・アクリルスタンド ・サイズ：約15cm ・片面印刷 ・台座付き ※サイズは目安になります。 ■受注期間 3月10日(火) ～ 3月31日(火) ※受注期間終了後に製造を開始します。 ■発送予定",
+              "display_url": "mnmn.booth.pm/items/4086888",
+              "end": 89,
+              "expanded_url": "https://mnmn.booth.pm/items/4086888",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2075505908096901120/RrGSN58U?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2075505908096901120/RrGSN58U?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 66,
+              "status": 200,
+              "title": "【受注生産(再販)】愛吏&ひなこアクリルフィギュア - mnmn - BOOTH",
+              "unwound_url": "https://mnmn.booth.pm/items/4086888",
+              "url": "https://t.co/TFu9i3ZsXo"
+            },
+            {
+              "display_url": "pic.x.com/AHTqHvqN60",
+              "end": 169,
+              "expanded_url": "https://x.com/_0mn0_/status/2031316634262983030/photo/1",
+              "media_key": "3_2031299358751387648",
+              "start": 146,
+              "url": "https://t.co/AHTqHvqN60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031316634262983030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 393,
+          "impression_count": 231903,
+          "like_count": 2875,
+          "quote_count": 133,
+          "reply_count": 15,
+          "retweet_count": 547
+        },
+        "reply_settings": "everyone",
+        "text": "🌻愛吏とひなこアクスタ再販のお知らせ🌻\n\nC100で販売した #きたかわ アクリルフィギュア(アクスタ)を受注生産にて再販します！\nhttps://t.co/TFu9i3ZsXo\n\n※ご注文数によっては発送時期を分けて発送させていただく場合がございますので、あらかじめご了承ください🙇‍♀️ https://t.co/AHTqHvqN60"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 213,
+          "like_count": 42206,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 3811
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-26T15:22:29.000Z",
+        "description": "漫画を描く ちゃんと下書きをする 締め切りを守る",
+        "id": "342774617",
+        "name": "まにお︎︎︎︎︎︎︎︎",
+        "pinned_tweet_id": "2074086061085765672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954137461837447168/tcpPvjWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69637,
+          "following_count": 497,
+          "like_count": 23356,
+          "listed_count": 636,
+          "media_count": 42,
+          "tweet_count": 1696
+        },
+        "url": "",
+        "username": "_0mn0_",
+        "verified": true
+      }
+    ]
+  }
+}

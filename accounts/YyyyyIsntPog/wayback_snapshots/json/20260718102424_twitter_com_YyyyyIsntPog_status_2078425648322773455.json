@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2078425648322773455",
+    "created_at": "2026-07-18T10:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T11:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078425648322773455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1150753335881826305",
+          "start": 3,
+          "username": "acacia038"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078425648322773455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078115152726016367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acacia038: 如果“变成男生/女生”是由srs手术决定的，那出车祸盆腔以下全部截肢的人，就永远“跨不过去”了吗？\n如果跨性别意识是由大脑的一个神经核团决定的，那地方长肿瘤医生切掉了，这个人就会不再是trans了吗？\n如果我真的“本来就是女孩，只是生错了身体”，在…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2078425648322773455",
+        "created_at": "2026-07-18T10:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078425648322773455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1150753335881826305",
+              "start": 3,
+              "username": "acacia038"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078425648322773455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078115152726016367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acacia038: 如果“变成男生/女生”是由srs手术决定的，那出车祸盆腔以下全部截肢的人，就永远“跨不过去”了吗？\n如果跨性别意识是由大脑的一个神经核团决定的，那地方长肿瘤医生切掉了，这个人就会不再是trans了吗？\n如果我真的“本来就是女孩，只是生错了身体”，在…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1150753335881826305",
+        "conversation_id": "2078115152726016367",
+        "created_at": "2026-07-17T13:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078115152726016367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078115152726016367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 9513,
+          "like_count": 136,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "如果“变成男生/女生”是由srs手术决定的，那出车祸盆腔以下全部截肢的人，就永远“跨不过去”了吗？\n如果跨性别意识是由大脑的一个神经核团决定的，那地方长肿瘤医生切掉了，这个人就会不再是trans了吗？\n如果我真的“本来就是女孩，只是生错了身体”，在那些我尚未觉醒的日子里，那个女孩的“灵魂”在哪里？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 216,
+          "like_count": 42253,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 3830
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-15T13:05:50.000Z",
+        "description": "故事的下文  明天再讲给你听\n实习新梦旅者，Melty land 搜寻ing⋯\n术力口跨女 欢迎同好扩列！",
+        "id": "1150753335881826305",
+        "name": "Charlotte F. aka suzu",
+        "pinned_tweet_id": "2016084177138155670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077063532315619328/MwXmHmj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 303,
+          "like_count": 4412,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1867
+        },
+        "url": "",
+        "username": "acacia038",
+        "verified": false
+      }
+    ]
+  }
+}

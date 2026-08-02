@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2078389259568906278",
+    "created_at": "2026-07-18T07:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T08:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078389259568906278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/asdqwd358224/s…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/asdqwd358224/status/1975259331701719179",
+          "start": 49,
+          "url": "https://t.co/68cabDJUJa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078389259568906278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975259331701719179",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "创造混自发。至少有人完全知悉我的一切不会因为语言与所指的断裂而产生表意错误而能理解我的一切了。。 https://t.co/68cabDJUJa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2078389259568906278",
+        "created_at": "2026-07-18T07:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078389259568906278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/asdqwd358224/s…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/asdqwd358224/status/1975259331701719179",
+              "start": 49,
+              "url": "https://t.co/68cabDJUJa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078389259568906278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975259331701719179",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "创造混自发。至少有人完全知悉我的一切不会因为语言与所指的断裂而产生表意错误而能理解我的一切了。。 https://t.co/68cabDJUJa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "1975259331701719179",
+        "created_at": "2025-10-06T17:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T18:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975259331701719179"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975259331701719179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1771,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "密码的成为多意识体到底有什么好处md"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 213,
+          "like_count": 42173,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 3803
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@happyhejsday ❤️@wanan071020\n  @QieZhiyuan ❤️@Roseline_7890\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 87,
+                "start": 79,
+                "username": "fe_ions"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "happyhejsday"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "wanan071020"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "QieZhiyuan"
+              },
+              {
+                "end": 148,
+                "start": 134,
+                "username": "Roseline_7890"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5SU2Hf"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "秋分与猫🍔 鲜虾🦐鱼板🍥面🍜",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2554,
+          "following_count": 3004,
+          "like_count": 102717,
+          "listed_count": 13,
+          "media_count": 2321,
+          "tweet_count": 18137
+        },
+        "url": "https://t.co/3Lyg5SU2Hf",
+        "username": "AsdQWD358224",
+        "verified": false
+      }
+    ]
+  }
+}

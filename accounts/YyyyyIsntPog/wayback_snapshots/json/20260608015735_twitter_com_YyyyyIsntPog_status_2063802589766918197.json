@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2063325097507934464",
+    "created_at": "2026-06-08T01:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T02:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063802589766918197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1611238295673114625",
+          "start": 0,
+          "username": "marinashitteru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063802589766918197",
+    "in_reply_to_user_id": "1611238295673114625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063325097507934464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marinashitteru 一个女孩然后很美丽"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9791,
+        "height": 1280,
+        "media_key": "7_2063325049525022721",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063325049525022721/pu/img/QGdPP4bEecTXiY47.jpg",
+        "public_metrics": {
+          "view_count": 286
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063325049525022721/pu/vid/avc1/320x568/QkwTsoZcUPrqhUtn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063325049525022721/pu/vid/avc1/480x852/c_b_59tGZEvEaIju.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063325049525022721/pu/vid/avc1/720x1280/iKhxAodlS0znyPAw.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063325049525022721/pu/pl/WRoRVPvhEn0n3T8T.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2063325097507934464",
+        "created_at": "2026-06-08T01:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T02:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063802589766918197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1611238295673114625",
+              "start": 0,
+              "username": "marinashitteru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063802589766918197",
+        "in_reply_to_user_id": "1611238295673114625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063325097507934464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marinashitteru 一个女孩然后很美丽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063325049525022721"
+          ]
+        },
+        "author_id": "1611238295673114625",
+        "conversation_id": "2063325097507934464",
+        "created_at": "2026-06-06T18:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T19:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063325097507934464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XpYTBYfq3d",
+              "end": 33,
+              "expanded_url": "https://x.com/marinashitteru/status/2063325097507934464/video/1",
+              "media_key": "7_2063325049525022721",
+              "start": 10,
+              "url": "https://t.co/XpYTBYfq3d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063325097507934464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 850,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一个女孩然后很做作 https://t.co/XpYTBYfq3d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "视奸死全家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/ZWBiQONTCQ"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 215,
+          "like_count": 42139,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 3725
+        },
+        "url": "https://t.co/ZWBiQONTCQ",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T05:48:55.000Z",
+        "description": "kk/哭哭 头像本体🦭🦭🦭🦭🦭🦭🦭🦭🦭🦭丨sh/od负能量  链接是匿名提问箱↓ 太久没发帖就是被制裁了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/8apxHZTQe3"
+              }
+            ]
+          }
+        },
+        "id": "1611238295673114625",
+        "location": "垃圾话大王海豹",
+        "name": "总而言之我哥哥非常非常好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043321958352486400/e4Wm8MC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 266,
+          "like_count": 6608,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 4089
+        },
+        "url": "https://t.co/8apxHZTQe3",
+        "username": "marinashitteru",
+        "verified": false
+      }
+    ]
+  }
+}

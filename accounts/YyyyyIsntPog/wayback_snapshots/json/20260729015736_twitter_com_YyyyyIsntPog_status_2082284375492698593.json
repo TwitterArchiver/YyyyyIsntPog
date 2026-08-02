@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2082284375492698593",
+    "created_at": "2026-07-29T01:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T02:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082284375492698593"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ohohoh121121/s…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/ohohoh121121/status/2081687714550980964",
+          "start": 43,
+          "url": "https://t.co/7vbpy5jxvv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082284375492698593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081687714550980964",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小妹妹，你再复制粘贴，我就把你割手手吃药药的事情告诉你的爸爸妈妈，你不要以为你很牛逼 https://t.co/7vbpy5jxvv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2082284375492698593",
+        "created_at": "2026-07-29T01:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082284375492698593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ohohoh121121/s…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/ohohoh121121/status/2081687714550980964",
+              "start": 43,
+              "url": "https://t.co/7vbpy5jxvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082284375492698593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081687714550980964",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小妹妹，你再复制粘贴，我就把你割手手吃药药的事情告诉你的爸爸妈妈，你不要以为你很牛逼 https://t.co/7vbpy5jxvv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2081687714550980964",
+        "created_at": "2026-07-27T10:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081687714550980964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/todorokidoya1/…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/todorokidoya1/status/2081664491432108307",
+              "start": 43,
+              "url": "https://t.co/xswsp2QNjH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081687714550980964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081664491432108307",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小妹妹，你再复制粘贴，我就把你割手手吃药药的事情告诉你的爸爸妈妈，你不要以为你很牛逼 https://t.co/xswsp2QNjH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 218,
+          "like_count": 42569,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3888
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 1000,
+          "like_count": 7687,
+          "listed_count": 1,
+          "media_count": 263,
+          "tweet_count": 1942
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

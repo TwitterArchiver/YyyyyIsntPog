@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2075896918446944557",
+    "created_at": "2026-07-12T07:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T08:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076212620198031478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1797273760325877760",
+          "start": 0,
+          "username": "xyv__3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076212620198031478",
+    "in_reply_to_user_id": "1797273760325877760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075896918446944557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xyv__3 我去恭喜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2075896918446944557",
+        "created_at": "2026-07-12T07:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076212620198031478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1797273760325877760",
+              "start": 0,
+              "username": "xyv__3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076212620198031478",
+        "in_reply_to_user_id": "1797273760325877760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075896918446944557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyv__3 我去恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797273760325877760",
+        "conversation_id": "2075896918446944557",
+        "created_at": "2026-07-11T10:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075896918446944557"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075896918446944557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3329,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜报，我的白兔和yyy过关了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 212,
+          "like_count": 42025,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 3744
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T14:27:20.000Z",
+        "description": "世界大爆炸，互fo大欢迎\n可以叫我小鱼🐟07-双相-药物滥用-量产&地雷\n欢迎大家找我聊天\n碎碎念，啥都发\n戒割半年，此账号极少发od相关，或许有概率可以发现我的二重身…",
+        "id": "1797273760325877760",
+        "location": "不收🚪不加联系方式",
+        "name": "3600斤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797280153359499264/xavXjUcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 60,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "xyv__3",
+        "verified": false
+      }
+    ]
+  }
+}
