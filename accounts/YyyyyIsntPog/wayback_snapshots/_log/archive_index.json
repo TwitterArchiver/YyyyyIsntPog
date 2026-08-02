@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T10:20:49",
+  "last_updated": "2026-08-02T10:21:05",
   "html": {
     "https://web.archive.org/web/20260608012558if_/https://twitter.com/YyyyyIsntPog/status/2063794632308183442": {
       "status": "done",
@@ -1420,9 +1420,9 @@
       "referenced_by": [
         "20260608015735_twitter_com_YyyyyIsntPog_status_2063802589766918197.json"
       ],
-      "last_updated": "2026-08-02T04:45:26",
+      "last_updated": "2026-08-02T10:21:05",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260608015735/https://video.twimg.com/ext_tw_video/2063325049525022721/pu/vid/avc1/720x1280/iKhxAodlS0znyPAw.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     }
   },
   "avatars": {
