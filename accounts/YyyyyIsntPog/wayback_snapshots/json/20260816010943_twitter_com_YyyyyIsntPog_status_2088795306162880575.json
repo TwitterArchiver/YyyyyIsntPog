@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2088473998816375219",
+    "created_at": "2026-08-16T01:09:43.000Z",
+    "display_text_range": [
+      17,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T02:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088795306162880575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2083759498066534400",
+          "start": 0,
+          "username": "Ririnkachan0808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088795306162880575",
+    "in_reply_to_user_id": "2083759498066534400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088473998816375219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ririnkachan0808 图上健全逼死无全尸😂😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 971,
+        "media_key": "3_2088473990289399808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvAB2nXoAAvkQq.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2088473998816375219",
+        "created_at": "2026-08-16T01:09:43.000Z",
+        "display_text_range": [
+          17,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T02:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088795306162880575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2083759498066534400",
+              "start": 0,
+              "username": "Ririnkachan0808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088795306162880575",
+        "in_reply_to_user_id": "2083759498066534400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088473998816375219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ririnkachan0808 图上健全逼死无全尸😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088473990289399808"
+          ]
+        },
+        "author_id": "2083759498066534400",
+        "conversation_id": "2088473998816375219",
+        "created_at": "2026-08-15T03:52:57.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T04:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088473998816375219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GjtPKvpnIZ",
+              "end": 28,
+              "expanded_url": "https://x.com/Ririnkachan0808/status/2088473998816375219/photo/1",
+              "media_key": "3_2088473990289399808",
+              "start": 5,
+              "url": "https://t.co/GjtPKvpnIZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088473998816375219",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088473990289399808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4986,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽你吗 https://t.co/GjtPKvpnIZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2088795306162880575",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 219,
+          "like_count": 42770,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 3950
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T04:07:21.000Z",
+        "description": "🩷🎀💞\n家有幼女鬼一只",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@leyochanririr…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@leyochanririri0808?igshid=NTc4MTIwNjQ2YQ==",
+                "start": 0,
+                "url": "https://t.co/RHAxmjevqz"
+              }
+            ]
+          }
+        },
+        "id": "2083759498066534400",
+        "is_identity_verified": false,
+        "location": "某个醉鬼的酒壶",
+        "most_recent_tweet_id": "2088650355982676182",
+        "name": "Ririnkadesuyo",
+        "pinned_tweet_id": "2088315426665107766",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083759498066534400/1786194139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086393771910942720/E8Telu_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 306,
+          "like_count": 773,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 890
+        },
+        "url": "https://t.co/RHAxmjevqz",
+        "username": "Ririnkachan0808",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

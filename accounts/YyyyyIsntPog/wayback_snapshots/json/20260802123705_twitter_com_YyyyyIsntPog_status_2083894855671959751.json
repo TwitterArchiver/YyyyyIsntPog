@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2083894855671959751",
+    "created_at": "2026-08-02T12:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T13:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083894855671959751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2059249764730834944",
+          "start": 3,
+          "username": "SeptimusWaoxti"
+        },
+        {
+          "end": 35,
+          "id": "1491134477162008576",
+          "start": 20,
+          "username": "InnocentB1tch_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083894855671959751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083716254096032022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SeptimusWaoxti: @InnocentB1tch_ 有的人糟糕，是因为他们足够痛苦。你不能同情他们，不能理解他们不能用人类的情感互通来为他们的痛苦而感到哀伤。那么就不要再别人说，他终于不用再痛苦，希望他死后不会像现在这样痛苦一样的言论感到反感。自己也是个狭隘…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2083894855671959751",
+        "created_at": "2026-08-02T12:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083894855671959751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2059249764730834944",
+              "start": 3,
+              "username": "SeptimusWaoxti"
+            },
+            {
+              "end": 35,
+              "id": "1491134477162008576",
+              "start": 20,
+              "username": "InnocentB1tch_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083894855671959751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083716254096032022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SeptimusWaoxti: @InnocentB1tch_ 有的人糟糕，是因为他们足够痛苦。你不能同情他们，不能理解他们不能用人类的情感互通来为他们的痛苦而感到哀伤。那么就不要再别人说，他终于不用再痛苦，希望他死后不会像现在这样痛苦一样的言论感到反感。自己也是个狭隘…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059249764730834944",
+        "conversation_id": "2083436811217690764",
+        "created_at": "2026-08-02T00:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T01:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083716254096032022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1491134477162008576",
+              "start": 0,
+              "username": "InnocentB1tch_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083716254096032022",
+        "in_reply_to_user_id": "1491134477162008576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3684,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083436811217690764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@InnocentB1tch_ 有的人糟糕，是因为他们足够痛苦。你不能同情他们，不能理解他们不能用人类的情感互通来为他们的痛苦而感到哀伤。那么就不要再别人说，他终于不用再痛苦，希望他死后不会像现在这样痛苦一样的言论感到反感。自己也是个狭隘片面没人性的傻缺就闭嘴吧。自残和抑郁症心理创伤是高度重合的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 221,
+          "like_count": 42731,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3914
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T12:29:57.000Z",
+        "description": "每个人都被困在一个小笼子里，而即使有的人突破了一个笼子，ta所将面对的无非是面对另一个笼子而已。只不过有的人的笼子恰当，有的人笼子丑陋不堪。所以，笼子中的人啊，因为，笼子的不同而隔着笼子互骂吧。",
+        "id": "2059249764730834944",
+        "location": "中国",
+        "name": "虚幻也是一种真实",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062339830030209024/HkE8vsWq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 81,
+          "like_count": 2981,
+          "listed_count": 3,
+          "media_count": 24,
+          "tweet_count": 2753
+        },
+        "url": "",
+        "username": "SeptimusWaoxti",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T19:39:15.000Z",
+        "description": "想你真的太痛甚至超过一把刀",
+        "id": "1491134477162008576",
+        "name": "你们都是我的杯子",
+        "pinned_tweet_id": "2065131670140043570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073854250128384000/Q_04-h1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3438,
+          "following_count": 24,
+          "like_count": 4513,
+          "listed_count": 6,
+          "media_count": 124,
+          "tweet_count": 1064
+        },
+        "url": "",
+        "username": "InnocentB1tch_",
+        "verified": false
+      }
+    ]
+  }
+}

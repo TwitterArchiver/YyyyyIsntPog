@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2091050497578848348",
+    "created_at": "2026-08-22T06:31:03.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T07:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091050497578848348"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_0mn0_/status/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/_0mn0_/status/2090033494856802566",
+          "start": 11,
+          "url": "https://t.co/3bAg6xdvnr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091050497578848348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090033494856802566",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我有预感我会喜欢这个 https://t.co/3bAg6xdvnr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2334,
+        "media_key": "3_2090015950594777088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQE6bwYaIAALG_X.jpg",
+        "width": 1500
+      },
+      {
+        "height": 2116,
+        "media_key": "3_2090015962619949057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQE6cdLbsAEfpbE.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2091050497578848348",
+        "created_at": "2026-08-22T06:31:03.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T07:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091050497578848348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_0mn0_/status/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/_0mn0_/status/2090033494856802566",
+              "start": 11,
+              "url": "https://t.co/3bAg6xdvnr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091050497578848348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090033494856802566",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我有预感我会喜欢这个 https://t.co/3bAg6xdvnr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090015950594777088",
+            "3_2090015962619949057"
+          ]
+        },
+        "author_id": "342774617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2090033494856802566",
+        "created_at": "2026-08-19T11:09:50.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090033494856802566"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "いじすき"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bbb6rekIK0",
+              "end": 171,
+              "expanded_url": "https://x.com/_0mn0_/status/2090033494856802566/photo/1",
+              "media_key": "3_2090015950594777088",
+              "start": 148,
+              "url": "https://t.co/Bbb6rekIK0"
+            },
+            {
+              "display_url": "pic.x.com/Bbb6rekIK0",
+              "end": 171,
+              "expanded_url": "https://x.com/_0mn0_/status/2090033494856802566/photo/1",
+              "media_key": "3_2090015962619949057",
+              "start": 148,
+              "url": "https://t.co/Bbb6rekIK0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090033494856802566",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090015950594777088"
+          },
+          {
+            "media_key": "3_2090015962619949057"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "いじすき"
+              }
+            ]
+          },
+          "text": "発売中の百合姫10月号に『いじめてくれる君がすき』第1話が掲載されています！\n本作品の略称は #いじすき でお願いします✌️\n\n毎月連載の予定でしたが、久々の漫画で筆が追いつかず…編集さんと相談して隔月掲載にしてもらいました🙇‍♀️\n次回『いじめてくれる君がすき』が載るのは12月号になります！\n単行本を早く出せるよう、ページ数を増やしてがんばるので楽しみに待っていてください～！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 624,
+          "impression_count": 90382,
+          "like_count": 2611,
+          "quote_count": 163,
+          "reply_count": 8,
+          "retweet_count": 508
+        },
+        "reply_settings": "everyone",
+        "text": "発売中の百合姫10月号に『いじめてくれる君がすき』第1話が掲載されています！\n本作品の略称は #いじすき でお願いします✌️\n\n毎月連載の予定でしたが、久々の漫画で筆が追いつかず…編集さんと相談して隔月掲載にしてもらいました🙇‍♀️\n次回『いじめてくれる君がすき』が載るのは12月号になります！ https://t.co/Bbb6rekIK0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2091050497578848348",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 219,
+          "like_count": 42926,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 3985
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-07-26T15:22:29.000Z",
+        "description": "漫画を描く ちゃんと下書きをする 締め切りを守る\nhttps://t.co/QuJxSMnSOB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mnmn.booth.pm",
+                "end": 48,
+                "expanded_url": "https://mnmn.booth.pm/",
+                "start": 25,
+                "url": "https://t.co/QuJxSMnSOB"
+              }
+            ]
+          }
+        },
+        "id": "342774617",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090770790996459999",
+        "name": "まにお︎︎︎︎︎︎︎︎",
+        "pinned_tweet_id": "2088098284971659378",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/342774617/1693002330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954137461837447168/tcpPvjWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70474,
+          "following_count": 501,
+          "like_count": 23584,
+          "listed_count": 635,
+          "media_count": 44,
+          "tweet_count": 1758
+        },
+        "url": "",
+        "username": "_0mn0_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

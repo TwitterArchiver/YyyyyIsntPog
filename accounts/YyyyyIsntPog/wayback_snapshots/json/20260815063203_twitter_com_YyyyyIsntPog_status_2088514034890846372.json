@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2088514034890846372",
+    "created_at": "2026-08-15T06:32:03.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T07:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088514034890846372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bghtnya/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/bghtnya/status/2088174869112631596",
+          "start": 14,
+          "url": "https://t.co/GSkQh9Mp5f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088514034890846372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088174869112631596",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "懂了以后开大证可以找晶格（ https://t.co/GSkQh9Mp5f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2079,
+        "media_key": "3_2088174848606707713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqv9hAboAEeOzH.jpg",
+        "width": 3402
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2088514034890846372",
+        "created_at": "2026-08-15T06:32:03.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088514034890846372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/bghtnya/status/2088174869112631596",
+              "start": 14,
+              "url": "https://t.co/GSkQh9Mp5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088514034890846372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088174869112631596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "懂了以后开大证可以找晶格（ https://t.co/GSkQh9Mp5f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088174848606707713"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2088174869112631596",
+        "created_at": "2026-08-14T08:04:19.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088174869112631596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KOrDWg5nQM",
+              "end": 43,
+              "expanded_url": "https://x.com/bghtnya/status/2088174869112631596/photo/1",
+              "media_key": "3_2088174848606707713",
+              "start": 20,
+              "url": "https://t.co/KOrDWg5nQM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088174869112631596",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088174848606707713"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 26412,
+          "like_count": 278,
+          "quote_count": 1,
+          "reply_count": 74,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "晶哥的司法鉴定是不是给我开出来大证了（ https://t.co/KOrDWg5nQM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2088514034890846372",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 219,
+          "like_count": 42724,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3939
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2088508483167727634",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10277,
+          "following_count": 2325,
+          "like_count": 181399,
+          "listed_count": 19,
+          "media_count": 4032,
+          "tweet_count": 49447
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

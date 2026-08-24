@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2083857446817190200",
+    "created_at": "2026-08-02T10:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083857446817190200"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linxinyujiang/…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/linxinyujiang/status/2083806120469295389",
+          "start": 47,
+          "url": "https://t.co/P1AHQ6JBwL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083857446817190200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083806120469295389",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "能理解这个说法。怕自己的指派性别与表达的社会性别不符被恐跨/不理解的人骂 类似免责声明（？） https://t.co/P1AHQ6JBwL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2083857446817190200",
+        "created_at": "2026-08-02T10:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083857446817190200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linxinyujiang/…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/linxinyujiang/status/2083806120469295389",
+              "start": 47,
+              "url": "https://t.co/P1AHQ6JBwL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083857446817190200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083806120469295389",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "能理解这个说法。怕自己的指派性别与表达的社会性别不符被恐跨/不理解的人骂 类似免责声明（？） https://t.co/P1AHQ6JBwL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032473219501080576",
+        "conversation_id": "2083806120469295389",
+        "created_at": "2026-08-02T06:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083806120469295389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083806120469295389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2725,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是药娘，不是女的，是mtf，谢谢，各位……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 219,
+          "like_count": 42652,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3899
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-13T15:05:59.000Z",
+        "description": ".",
+        "id": "2032473219501080576",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074780183836622848/gAqs__Es_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 242,
+          "like_count": 36,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "linxinyujiang",
+        "verified": false
+      }
+    ]
+  }
+}

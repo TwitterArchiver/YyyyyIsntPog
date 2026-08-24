@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2083847586247516663",
+    "created_at": "2026-08-02T09:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T10:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083847586247516663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ggdxfulan/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/ggdxfulan/status/2083656844367536325",
+          "start": 12,
+          "url": "https://t.co/Bd2YhKnhW6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083847586247516663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083656844367536325",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去我也要学习这个（） https://t.co/Bd2YhKnhW6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2083847586247516663",
+        "created_at": "2026-08-02T09:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083847586247516663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ggdxfulan/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/ggdxfulan/status/2083656844367536325",
+              "start": 12,
+              "url": "https://t.co/Bd2YhKnhW6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083847586247516663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083656844367536325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去我也要学习这个（） https://t.co/Bd2YhKnhW6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639816523190763521",
+        "conversation_id": "2083656844367536325",
+        "created_at": "2026-08-01T20:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T21:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083656844367536325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083656844367536325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4662,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我这辈子没想到我技能点点的最满的居然是tm泡妞\n\n用泡顺女的方式泡药娘就tm降维打击，关键是我还靠这个b能力爆药娘金币活了两年\n\n真tm丢人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 219,
+          "like_count": 42590,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3893
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "一个看书的人",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐",
+        "pinned_tweet_id": "2078112254688412095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082813427727101952/vkSmMfMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17849,
+          "following_count": 497,
+          "like_count": 36911,
+          "listed_count": 30,
+          "media_count": 3839,
+          "tweet_count": 11880
+        },
+        "url": "",
+        "username": "ggdxfulan",
+        "verified": true
+      }
+    ]
+  }
+}

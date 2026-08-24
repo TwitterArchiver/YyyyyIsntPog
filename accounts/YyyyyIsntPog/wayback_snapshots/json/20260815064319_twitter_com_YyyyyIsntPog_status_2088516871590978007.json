@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2088516871590978007",
+    "created_at": "2026-08-15T06:43:19.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T07:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088516871590978007"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 113,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2088390206361854345",
+          "start": 90,
+          "url": "https://t.co/5mjqfosfcN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088516871590978007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088390206361854345",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本来就是啊，所以摧毁父权制同时解放了女性和男性，把所有人头上规训的枷锁解除了。，所以我觉得父权制的对立方不应该是女性主义（她们只想着女性）而应该是性别解构主义。没有性别，没有压迫 https://t.co/5mjqfosfcN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 214229,
+        "height": 1280,
+        "media_key": "13_2088250973760208896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088250973760208896/img/xlZYqMgaykfzjMXS.jpg",
+        "public_metrics": {
+          "view_count": 86817
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088250973760208896/vid/avc1/320x568/DaiKjv9R-frLirhP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088250973760208896/vid/avc1/480x852/Kt0_VZzcTB3xeY94.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088250973760208896/vid/avc1/720x1280/ajH1t7bCUoOqUSrH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088250973760208896/pl/plnYVk-PnfdpYEzQ.m3u8?v=f13"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2088250973760196608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr1MlTXEAAipbs.jpg",
+        "width": 665
+      },
+      {
+        "height": 1102,
+        "media_key": "3_2088250973760233472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr1MlTXoAAHOvT.jpg",
+        "width": 666
+      },
+      {
+        "height": 807,
+        "media_key": "3_2088250973760176128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr1MlTWwAAfacp.png",
+        "width": 545
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2088516871590978007",
+        "created_at": "2026-08-15T06:43:19.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088516871590978007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2088390206361854345",
+              "start": 90,
+              "url": "https://t.co/5mjqfosfcN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088516871590978007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088390206361854345",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来就是啊，所以摧毁父权制同时解放了女性和男性，把所有人头上规训的枷锁解除了。，所以我觉得父权制的对立方不应该是女性主义（她们只想着女性）而应该是性别解构主义。没有性别，没有压迫 https://t.co/5mjqfosfcN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088250973760208896",
+            "3_2088250973760196608",
+            "3_2088250973760233472",
+            "3_2088250973760176128"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088390206361854345",
+        "created_at": "2026-08-14T22:20:00.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T23:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088390206361854345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7cWAR0GdG0",
+              "end": 151,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2088390206361854345/video/1",
+              "media_key": "13_2088250973760208896",
+              "start": 128,
+              "url": "https://t.co/7cWAR0GdG0"
+            },
+            {
+              "display_url": "pic.x.com/7cWAR0GdG0",
+              "end": 151,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2088390206361854345/video/1",
+              "media_key": "3_2088250973760196608",
+              "start": 128,
+              "url": "https://t.co/7cWAR0GdG0"
+            },
+            {
+              "display_url": "pic.x.com/7cWAR0GdG0",
+              "end": 151,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2088390206361854345/video/1",
+              "media_key": "3_2088250973760233472",
+              "start": 128,
+              "url": "https://t.co/7cWAR0GdG0"
+            },
+            {
+              "display_url": "pic.x.com/7cWAR0GdG0",
+              "end": 151,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2088390206361854345/video/1",
+              "media_key": "3_2088250973760176128",
+              "start": 128,
+              "url": "https://t.co/7cWAR0GdG0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088390206361854345",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088250973760208896"
+          },
+          {
+            "media_key": "3_2088250973760196608"
+          },
+          {
+            "media_key": "3_2088250973760233472"
+          },
+          {
+            "media_key": "3_2088250973760176128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "近日，华东政法大学学生成鸿宇此前的一段课堂报告再次在中文网络走红。\n视频中，他认为传统父权社会不仅约束女性，也要求普通男性遵循“成家立业、买房养家、承担家庭责任”的人生脚本，并称“父权思想不仅迫害女性，也迫害男性”。\n\n这场报告此前曾引发激烈争议和举报。\n网传华东政法大学校长信箱回复显示，学院此后取消其入党积极分子资格，并对其进行批评教育。\n\n此次视频重新传播后，评论区出现大量“求原视频”“还好保存了”“已经搜不到原视频”等留言。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 342,
+          "impression_count": 138851,
+          "like_count": 1162,
+          "quote_count": 17,
+          "reply_count": 80,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "近日，华东政法大学学生成鸿宇此前的一段课堂报告再次在中文网络走红。\n视频中，他认为传统父权社会不仅约束女性，也要求普通男性遵循“成家立业、买房养家、承担家庭责任”的人生脚本，并称“父权思想不仅迫害女性，也迫害男性”。\n\n这场报告此前曾引发激烈争议和举报。 https://t.co/7cWAR0GdG0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2088516871590978007",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 219,
+          "like_count": 42734,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3944
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2088516035326459947",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249679,
+          "following_count": 1080,
+          "like_count": 9918,
+          "listed_count": 8874,
+          "media_count": 52062,
+          "tweet_count": 59358
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2091046898140414229",
+    "created_at": "2026-08-22T06:16:44.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T07:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091046898140414229"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hozheganma/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/hozheganma/status/2090864774070579619",
+          "start": 3,
+          "url": "https://t.co/ci3PORTfoz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091046898140414229",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090864774070579619",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爸爸 https://t.co/ci3PORTfoz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2091046898140414229",
+        "created_at": "2026-08-22T06:16:44.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T07:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091046898140414229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hozheganma/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/hozheganma/status/2090864774070579619",
+              "start": 3,
+              "url": "https://t.co/ci3PORTfoz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091046898140414229",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090864774070579619",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爸爸 https://t.co/ci3PORTfoz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823160336691982336",
+        "conversation_id": "2090864774070579619",
+        "created_at": "2026-08-21T18:13:03.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T19:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090864774070579619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sugarsast/stat…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/Sugarsast/status/2090732604719063357",
+              "start": 144,
+              "url": "https://t.co/fg5zY9eftg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090864774070579619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5117,
+          "like_count": 41,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090732604719063357",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "普瑞巴林尿液：\n塑料杯收集原尿，加入适当柠檬酸，减缓其中有机物以及细菌的反应，保鲜膜密封杯口放入冰箱2到4度冷藏，取出倒入锅中加热高温杀菌，沸腾100℃即可，普瑞水溶性较好，蒸汽流失很少，再用眼镜布，纱布等过滤网将一部分沉淀与溶液分开，骚臭味逐渐消失，到这半成品就好了，调调味道基本能喝 https://t.co/fg5zY9eftg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2091046898140414229",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 219,
+          "like_count": 42908,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 3983
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-13T00:51:44.000Z",
+        "description": "银叶红丝，压片与胶囊散落…/昏迷于白天，活跃于夜间/废高三牲/oder🚬/自伤/友跨/存在二象性…/同类互fo（若没及时回sorry😿）",
+        "id": "1823160336691982336",
+        "is_identity_verified": false,
+        "location": "Highland F-1",
+        "most_recent_tweet_id": "2091032947679961590",
+        "name": "沫依#Ng",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823160336691982336/1775244485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991569214524805120/tUZ2PIpI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 420,
+          "like_count": 2278,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 774
+        },
+        "url": "",
+        "username": "Hozheganma",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

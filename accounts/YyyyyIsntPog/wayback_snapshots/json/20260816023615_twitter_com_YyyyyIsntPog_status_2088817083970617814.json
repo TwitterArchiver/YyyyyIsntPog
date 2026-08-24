@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2088817083970617814",
+    "created_at": "2026-08-16T02:36:15.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T03:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088817083970617814"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cisza14/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/cisza14/status/2088103629408330091",
+          "start": 9,
+          "url": "https://t.co/IJwKSmgHqq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088817083970617814",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088103629408330091",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我哭了我也想要… https://t.co/IJwKSmgHqq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2088817083970617814",
+        "created_at": "2026-08-16T02:36:15.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T03:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088817083970617814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cisza14/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/cisza14/status/2088103629408330091",
+              "start": 9,
+              "url": "https://t.co/IJwKSmgHqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088817083970617814",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088103629408330091",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我哭了我也想要… https://t.co/IJwKSmgHqq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1127529090091642882",
+        "conversation_id": "2088098284971659378",
+        "created_at": "2026-08-14T03:21:14.000Z",
+        "display_text_range": [
+          8,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088103629408330091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "342774617",
+              "start": 0,
+              "username": "_0mn0_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088103629408330091",
+        "in_reply_to_user_id": "342774617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1338,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088098284971659378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_0mn0_ 台湾でもプリントできるの、本当に助かります！😭✨"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2088817083970617814",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 220,
+          "like_count": 42839,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 3958
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-12T11:00:58.000Z",
+        "description": "日本語を勉強しています\n※AI 学習禁止\nCiza_ https://t.co/ZDSK7jdQOz\nLinktree: https://t.co/y39eRj2ooN\nqinzenozomi@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/41583659",
+                "end": 50,
+                "expanded_url": "http://pixiv.net/users/41583659",
+                "start": 27,
+                "url": "https://t.co/ZDSK7jdQOz"
+              },
+              {
+                "display_url": "linktr.ee/ciza_illust",
+                "end": 84,
+                "expanded_url": "https://linktr.ee/ciza_illust",
+                "start": 61,
+                "url": "https://t.co/y39eRj2ooN"
+              }
+            ]
+          }
+        },
+        "id": "1127529090091642882",
+        "is_identity_verified": false,
+        "location": "Neverland",
+        "most_recent_tweet_id": "2088429288936861706",
+        "name": "Ciza 1日目-東エ49a",
+        "pinned_tweet_id": "2084934125014970835",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1127529090091642882/1728145796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865350351265927168/BlZedj3V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12411,
+          "following_count": 1602,
+          "like_count": 31713,
+          "listed_count": 90,
+          "media_count": 130,
+          "tweet_count": 705
+        },
+        "url": "",
+        "username": "Cisza14",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-07-26T15:22:29.000Z",
+        "description": "漫画を描く ちゃんと下書きをする 締め切りを守る\nhttps://t.co/QuJxSMnSOB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mnmn.booth.pm",
+                "end": 48,
+                "expanded_url": "https://mnmn.booth.pm/",
+                "start": 25,
+                "url": "https://t.co/QuJxSMnSOB"
+              }
+            ]
+          }
+        },
+        "id": "342774617",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088692087579701694",
+        "name": "まにお︎︎︎︎︎︎︎︎",
+        "pinned_tweet_id": "2088098284971659378",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/342774617/1693002330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954137461837447168/tcpPvjWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69966,
+          "following_count": 499,
+          "like_count": 23474,
+          "listed_count": 632,
+          "media_count": 43,
+          "tweet_count": 1753
+        },
+        "url": "",
+        "username": "_0mn0_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

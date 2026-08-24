@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2088498048406110396",
+    "created_at": "2026-08-15T05:28:31.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T06:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088498048406110396"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bghtnya/status…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/bghtnya/status/2087875171147194669",
+          "start": 21,
+          "url": "https://t.co/HmRvItWdgN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088498048406110396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087875171147194669",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？牛逼\n符合主播女孩重度依赖受众群体画像 https://t.co/HmRvItWdgN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2087875118567706624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmfW7ma0AACeUH.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1842,
+        "media_key": "3_2087875129074397185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmfXivaMAET9Qp.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2087875148519243776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmfYrLbAAACOcg.jpg",
+        "width": 1842
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2088498048406110396",
+        "created_at": "2026-08-15T05:28:31.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088498048406110396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/bghtnya/status/2087875171147194669",
+              "start": 21,
+              "url": "https://t.co/HmRvItWdgN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088498048406110396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087875171147194669",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？牛逼\n符合主播女孩重度依赖受众群体画像 https://t.co/HmRvItWdgN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087875118567706624",
+            "3_2087875129074397185",
+            "3_2087875148519243776"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2087875171147194669",
+        "created_at": "2026-08-13T12:13:26.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:10:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087874545109839892",
+          "2087875171147194669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mG4fc47d4t",
+              "end": 138,
+              "expanded_url": "https://x.com/bghtnya/status/2087875171147194669/photo/1",
+              "media_key": "3_2087875118567706624",
+              "start": 115,
+              "url": "https://t.co/mG4fc47d4t"
+            },
+            {
+              "display_url": "pic.x.com/mG4fc47d4t",
+              "end": 138,
+              "expanded_url": "https://x.com/bghtnya/status/2087875171147194669/photo/1",
+              "media_key": "3_2087875129074397185",
+              "start": 115,
+              "url": "https://t.co/mG4fc47d4t"
+            },
+            {
+              "display_url": "pic.x.com/mG4fc47d4t",
+              "end": 138,
+              "expanded_url": "https://x.com/bghtnya/status/2087875171147194669/photo/1",
+              "media_key": "3_2087875148519243776",
+              "start": 115,
+              "url": "https://t.co/mG4fc47d4t"
+            },
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/bghtnya/status/2087820263052423385",
+              "start": 139,
+              "url": "https://t.co/zDglTZlSRh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087875171147194669",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087875118567706624"
+          },
+          {
+            "media_key": "3_2087875129074397185"
+          },
+          {
+            "media_key": "3_2087875148519243776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 44550,
+          "like_count": 213,
+          "quote_count": 13,
+          "reply_count": 30,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087820263052423385",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "wc！千雪同行，我们见到了超天降快闪店捅人事件的受害者当事人wireless （她也是mtf）\n\n双手都被捅伤，胳膊上还在僵持的时候被咬了一口\n\n昨天她的包还被落在了店里面，今早回去之包的时候说还没有营业，店员在清扫地上的血迹） https://t.co/mG4fc47d4t https://t.co/zDglTZlSRh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2088498048406110396",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 219,
+          "like_count": 42700,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 3929
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2088466459085467842",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10278,
+          "following_count": 2325,
+          "like_count": 181384,
+          "listed_count": 19,
+          "media_count": 4030,
+          "tweet_count": 49442
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

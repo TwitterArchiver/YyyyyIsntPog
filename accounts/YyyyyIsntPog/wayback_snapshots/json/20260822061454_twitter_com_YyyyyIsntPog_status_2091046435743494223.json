@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2091046435743494223",
+    "created_at": "2026-08-22T06:14:54.000Z",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T07:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091046435743494223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2088519536068943872",
+          "start": 3,
+          "username": "yamazaki_neo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091046435743494223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090816499690975279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yamazaki_neo: 同样身为男性的我完全没有享受到Amber所说的男性特权，Amber说这是作为男性的失败，可是他完全不想想他那个为了他破产的老父亲在天上失望的看着他，他所谓的成功到底是谁给他的呢？😹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2091046435743494223",
+        "created_at": "2026-08-22T06:14:54.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T07:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091046435743494223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2088519536068943872",
+              "start": 3,
+              "username": "yamazaki_neo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091046435743494223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090816499690975279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yamazaki_neo: 同样身为男性的我完全没有享受到Amber所说的男性特权，Amber说这是作为男性的失败，可是他完全不想想他那个为了他破产的老父亲在天上失望的看着他，他所谓的成功到底是谁给他的呢？😹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088519536068943872",
+        "conversation_id": "2090816499690975279",
+        "created_at": "2026-08-21T15:01:13.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090816499690975279"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090816499690975279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 12419,
+          "like_count": 197,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "同样身为男性的我完全没有享受到Amber所说的男性特权，Amber说这是作为男性的失败，可是他完全不想想他那个为了他破产的老父亲在天上失望的看着他，他所谓的成功到底是谁给他的呢？😹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2091046435743494223",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 219,
+          "like_count": 42906,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 3982
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T06:57:34.000Z",
+        "description": "主人：@yamazakiisuzu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "yamazakiisuzu"
+              }
+            ]
+          }
+        },
+        "id": "2088519536068943872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091035208472530972",
+        "name": "⁺✟₊山崎いすず₊✟⁺",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088519536068943872/1786777190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088520726173409280/Y9UN5giF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 75,
+          "like_count": 1682,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 611
+        },
+        "url": "",
+        "username": "yamazaki_neo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

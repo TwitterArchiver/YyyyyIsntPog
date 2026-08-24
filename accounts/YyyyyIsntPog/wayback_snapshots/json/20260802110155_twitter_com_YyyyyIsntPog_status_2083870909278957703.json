@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2083870909278957703",
+    "created_at": "2026-08-02T11:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083870909278957703"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sagerrgyalpo/s…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/sagerrgyalpo/status/2083554102198640838",
+          "start": 79,
+          "url": "https://t.co/1cMKdHCAOM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083870909278957703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083554102198640838",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大眼神人侧没基本盘😂😂处于萌测二象性之间接触了个女权直接发狠了忘情了打所有男的 女的犯同样错误就被娱乐化过去了要不就是扯“男的也这样” 求老辈子侧没返场教程 https://t.co/1cMKdHCAOM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083554095244378112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpFaRVaAAAZ-5M.jpg",
+        "width": 1908
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083554095240249344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpFaRUbAAAAvfG.jpg",
+        "width": 620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2083870909278957703",
+        "created_at": "2026-08-02T11:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083870909278957703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sagerrgyalpo/s…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/sagerrgyalpo/status/2083554102198640838",
+              "start": 79,
+              "url": "https://t.co/1cMKdHCAOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083870909278957703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083554102198640838",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大眼神人侧没基本盘😂😂处于萌测二象性之间接触了个女权直接发狠了忘情了打所有男的 女的犯同样错误就被娱乐化过去了要不就是扯“男的也这样” 求老辈子侧没返场教程 https://t.co/1cMKdHCAOM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083554095244378112",
+            "3_2083554095240249344"
+          ]
+        },
+        "author_id": "1622255626066731010",
+        "conversation_id": "2083554102198640838",
+        "created_at": "2026-08-01T14:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083554102198640838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZVFuiwOsXN",
+              "end": 148,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2083554102198640838/photo/1",
+              "media_key": "3_2083554095244378112",
+              "start": 125,
+              "url": "https://t.co/ZVFuiwOsXN"
+            },
+            {
+              "display_url": "pic.x.com/ZVFuiwOsXN",
+              "end": 148,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2083554102198640838/photo/1",
+              "media_key": "3_2083554095240249344",
+              "start": 125,
+              "url": "https://t.co/ZVFuiwOsXN"
+            },
+            {
+              "display_url": "x.com/sagerrgyalpo/s…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/sagerrgyalpo/status/2083189262820987234",
+              "start": 149,
+              "url": "https://t.co/vlVHyu4S6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083554102198640838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 9177,
+          "like_count": 148,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083189262820987234",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“我女我也觉得这样穿很神圣啊”的评论区女权人士们对本账号和本账号的读者们发出了暴力和死亡威胁。\n\n她们放出狠话，要“烫烂”本账号及读者所有人的唧唧、让本账号及读者“都别活了”、威胁执行“清㽖计划”、辱骂本账号及读者是“公畜”……\n\n友友们害怕了吗？ https://t.co/ZVFuiwOsXN https://t.co/vlVHyu4S6h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 220,
+          "like_count": 42705,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3907
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T15:27:45.000Z",
+        "description": "欢迎私信投稿！｜女男平等议题小博主｜gender equality｜반페미｜アンチフェミ｜антифем｜🕊️☮️反战｜🚫🪶反白羽毛｜支持童权",
+        "id": "1622255626066731010",
+        "location": "Zagreb, Hrvatska",
+        "name": "Sagêr Gyaebo ♂⚖️ 萨格杰布",
+        "pinned_tweet_id": "2055728973553021273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058190297641922560/jwhVYdBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10986,
+          "following_count": 931,
+          "like_count": 1569,
+          "listed_count": 46,
+          "media_count": 2755,
+          "tweet_count": 5570
+        },
+        "url": "",
+        "username": "SagerRgyalpo",
+        "verified": true
+      }
+    ]
+  }
+}

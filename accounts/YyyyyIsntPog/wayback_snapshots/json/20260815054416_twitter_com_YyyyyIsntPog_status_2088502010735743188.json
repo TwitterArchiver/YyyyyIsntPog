@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2088502010735743188",
+    "created_at": "2026-08-15T05:44:16.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T06:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088502010735743188"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tgbabycost/sta…",
+          "end": 116,
+          "expanded_url": "https://twitter.com/tgbabycost/status/2088257755073429850",
+          "start": 93,
+          "url": "https://t.co/E3EHE3hzJl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088502010735743188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088257755073429850",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第一这和男女没有关系 我是XXXYY染色体都和我带不带刀没有关系 第二称呼一个未术mtf为男人是对她的一种冒犯 第三携带刀具无所谓 但无论哪个性别的人随便怀疑人用荒谬的理由捅人都是傻逼 https://t.co/E3EHE3hzJl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2088502010735743188",
+        "created_at": "2026-08-15T05:44:16.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088502010735743188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tgbabycost/sta…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/tgbabycost/status/2088257755073429850",
+              "start": 93,
+              "url": "https://t.co/E3EHE3hzJl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088502010735743188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088257755073429850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一这和男女没有关系 我是XXXYY染色体都和我带不带刀没有关系 第二称呼一个未术mtf为男人是对她的一种冒犯 第三携带刀具无所谓 但无论哪个性别的人随便怀疑人用荒谬的理由捅人都是傻逼 https://t.co/E3EHE3hzJl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1013526829",
+        "conversation_id": "2088257755073429850",
+        "created_at": "2026-08-14T13:33:41.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088257755073429850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tatanakots/sta…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/tatanakots/status/2087982584655741229",
+              "start": 154,
+              "url": "https://t.co/PnW6Eyzdlq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088257755073429850",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6228,
+          "like_count": 9,
+          "quote_count": 9,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087982584655741229",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "إذا لم يخضع الشخص للعملية الجراحية لتغيير جنسه، فإنه يظل رجلاً. وله الحق كرجل أن يحمل سكينًا ويحمي كرامته وسلامة عائلته. هل فقد الصينيون الثقة في أنفسهم؟ https://t.co/PnW6Eyzdlq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2088502010735743188",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 219,
+          "like_count": 42705,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 3932
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-12-15T16:26:30.000Z",
+        "description": "لا تجادل الأحمق فقد يخطئ الناس في التفريق بينكما.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/babycost",
+                "end": 23,
+                "expanded_url": "http://t.me/babycost",
+                "start": 0,
+                "url": "https://t.co/7SzUBiJ5EI"
+              }
+            ]
+          }
+        },
+        "id": "1013526829",
+        "is_identity_verified": true,
+        "location": "pm",
+        "most_recent_tweet_id": "2088486201736962310",
+        "name": "22",
+        "pinned_tweet_id": "2087889042083897820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1013526829/1786438561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087098408909811712/mfNESRHe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2705,
+          "following_count": 207,
+          "like_count": 182,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 41226
+        },
+        "url": "https://t.co/7SzUBiJ5EI",
+        "username": "TGbabycost",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
