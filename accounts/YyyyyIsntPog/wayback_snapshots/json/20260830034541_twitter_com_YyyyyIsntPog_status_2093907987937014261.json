@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2093907987937014261",
+    "created_at": "2026-08-30T03:45:41.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T04:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093907987937014261"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cheese_ghostfo…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/cheese_ghostfox/status/2046798719526527313",
+          "start": 29,
+          "url": "https://t.co/6ctfjrdki6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093907987937014261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046798719526527313",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "孩子们等我尝试 刚好吃安非他酮有段时间了下次对比下mjg https://t.co/6ctfjrdki6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2093907987937014261",
+        "created_at": "2026-08-30T03:45:41.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T04:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093907987937014261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cheese_ghostfo…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/cheese_ghostfox/status/2046798719526527313",
+              "start": 29,
+              "url": "https://t.co/6ctfjrdki6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093907987937014261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046798719526527313",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子们等我尝试 刚好吃安非他酮有段时间了下次对比下mjg https://t.co/6ctfjrdki6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1998810919682638294",
+        "created_at": "2026-04-22T03:50:17.000Z",
+        "display_text_range": [
+          12,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-04-22T04:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046798719526527313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046798719526527313",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1770,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998810919682638294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki 它在缓解抑郁，抑制食欲，以及轻微提升动机与克制嗜睡的层面\n相对于安非他酮缓释片(II) 150mg qd的方案会有优势吗？\n狐觉得这看起来像是一种至少「值得尝试」的物质\n或许会比安非他酮这个狐目前为止最喜欢的物质再多上一点有趣的feature，狐很喜欢克制且温和的兴奋与欣快"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2093907987937014261",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 222,
+          "like_count": 42983,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3999
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2093849789465264181",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 1526,
+          "like_count": 24047,
+          "listed_count": 7,
+          "media_count": 863,
+          "tweet_count": 7712
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "is_identity_verified": false,
+        "location": "彼岸",
+        "most_recent_tweet_id": "2092372742981189901",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1448206950903255040/1672820400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1171,
+          "following_count": 960,
+          "like_count": 28382,
+          "listed_count": 0,
+          "media_count": 494,
+          "tweet_count": 4352
+        },
+        "url": "",
+        "username": "_Shikieiki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

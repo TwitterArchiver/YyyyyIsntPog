@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2093316694467068085",
+    "created_at": "2026-08-29T03:18:35.000Z",
+    "display_text_range": [
+      35,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T04:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093538780166730158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1317689258052710400",
+          "start": 0,
+          "username": "5oke_k29"
+        },
+        {
+          "end": 20,
+          "id": "2087636528633982976",
+          "start": 10,
+          "username": "67De_dian"
+        },
+        {
+          "end": 34,
+          "id": "1789010584731586561",
+          "start": 21,
+          "username": "17_ZakkysLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093538780166730158",
+    "in_reply_to_user_id": "1317689258052710400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093316694467068085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5oke_k29 @67De_dian @17_ZakkysLab 抽我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093316683096375296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQz0brJbwAAub_m.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2093316694467068085",
+        "created_at": "2026-08-29T03:18:35.000Z",
+        "display_text_range": [
+          35,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T04:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093538780166730158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            },
+            {
+              "end": 20,
+              "id": "2087636528633982976",
+              "start": 10,
+              "username": "67De_dian"
+            },
+            {
+              "end": 34,
+              "id": "1789010584731586561",
+              "start": 21,
+              "username": "17_ZakkysLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093538780166730158",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093316694467068085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 @67De_dian @17_ZakkysLab 抽我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093316683096375296"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2093316694467068085",
+        "created_at": "2026-08-28T12:36:06.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T13:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093316694467068085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1789010584731586561",
+              "start": 16,
+              "username": "17_ZakkysLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JNOjDaESRR",
+              "end": 155,
+              "expanded_url": "https://x.com/5oke_k29/status/2093316694467068085/photo/1",
+              "media_key": "3_2093316683096375296",
+              "start": 132,
+              "url": "https://t.co/JNOjDaESRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093316694467068085",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093316683096375296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4386,
+          "like_count": 87,
+          "quote_count": 2,
+          "reply_count": 72,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "抽5盒pr原粉 1人一盒 都是来@17_ZakkysLab \n还有2位现金52.52\n还有喹硫平2盒（助眠用 不需要可以兑现20 因为我买成20）\n还有什么想要的吗？赞转评就可以 可以说说为什么喜欢我吗？会喜欢我多久会和我当多久朋友呢 还有啵啵兔✖️2 图上这个 https://t.co/JNOjDaESRR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2093538780166730158",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 220,
+          "like_count": 42956,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3997
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别烦 都是过检的合法上头策划 \n我的另一个@5koPainful\n交流群：https://t.co/VgEHi6jhgo\n反馈频道：https://t.co/HXYpyZjKv2\n商品发布频道(本频道)：https://t.co/vlJyULWCg4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "5koPainful"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+TBySRMOZqn4wM…",
+                "end": 62,
+                "expanded_url": "https://t.me/+TBySRMOZqn4wM2Vk",
+                "start": 39,
+                "url": "https://t.co/VgEHi6jhgo"
+              },
+              {
+                "display_url": "t.me/LemonRCFeedBack",
+                "end": 91,
+                "expanded_url": "https://t.me/LemonRCFeedBack",
+                "start": 68,
+                "url": "https://t.co/HXYpyZjKv2"
+              },
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 127,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 104,
+                "url": "https://t.co/vlJyULWCg4"
+              }
+            ]
+          }
+        },
+        "id": "1317689258052710400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093398314851176948",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317689258052710400/1673097042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7332,
+          "following_count": 172,
+          "like_count": 1045,
+          "listed_count": 13,
+          "media_count": 398,
+          "tweet_count": 3575
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T20:25:09.000Z",
+        "description": "可以叫我6点。700fo前世@6De_dian\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n永远偏爱：@Korewoizontoyo\n\n｜双相｜ODer｜oc｜同人｜画手｜负能｜\n发什么随心情\n不见证不争议\n查属性回fo\n药理学爱好正在学习中…\n会尽力回答您的问题，可以私信我哦\npr有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "6De_dian"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2087636528633982976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093537996851032299",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2087667609223524719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087636528633982976/1786566851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 299,
+          "like_count": 2377,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "67De_dian",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-10T19:12:26.000Z",
+        "description": "扎鸡兄弟 Los Pollos Hermanos",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/ALxTTL6SOC"
+              }
+            ]
+          }
+        },
+        "id": "1789010584731586561",
+        "is_identity_verified": false,
+        "location": "阿尔伯克基",
+        "most_recent_tweet_id": "2093397708816146604",
+        "name": "扎17",
+        "pinned_tweet_id": "2092636720026288426",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1789010584731586561/1787669819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092264793378099201/nwq8pqCe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 62,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 119
+        },
+        "url": "https://t.co/ALxTTL6SOC",
+        "username": "17_ZakkysLab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

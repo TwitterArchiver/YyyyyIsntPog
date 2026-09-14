@@ -1,0 +1,564 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1683514315146420225",
+          "name": "X - the everything app"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2093538559978283331",
+    "created_at": "2026-08-29T03:17:43.000Z",
+    "display_text_range": [
+      0,
+      145
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T04:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093538559978283331"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuwenmewo/stat…",
+          "end": 169,
+          "expanded_url": "https://twitter.com/yuwenmewo/status/2093158805123277001",
+          "start": 146,
+          "url": "https://t.co/e5BF2LE0Tg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093538559978283331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093158805123277001",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本人自即日起，正式在 X 平台（原 Twitter），发表如下立场声明，本人郑重表态：\n坚决支持中国共产党的领导；\n坚决拥护习近平同志党中央的核心、全党的核心地位；\n坚决拥护习近平新时代中国特色社会主义思想； \n自觉抵制境外平台错误舆论导向 自觉在境外平台宣扬爱国爱党维护国家统一的进步言论 https://t.co/e5BF2LE0Tg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2093538559978283331",
+        "created_at": "2026-08-29T03:17:43.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T04:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093538559978283331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuwenmewo/stat…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/yuwenmewo/status/2093158805123277001",
+              "start": 146,
+              "url": "https://t.co/e5BF2LE0Tg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093538559978283331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093158805123277001",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本人自即日起，正式在 X 平台（原 Twitter），发表如下立场声明，本人郑重表态：\n坚决支持中国共产党的领导；\n坚决拥护习近平同志党中央的核心、全党的核心地位；\n坚决拥护习近平新时代中国特色社会主义思想； \n自觉抵制境外平台错误舆论导向 自觉在境外平台宣扬爱国爱党维护国家统一的进步言论 https://t.co/e5BF2LE0Tg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063957681984225280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2093158805123277001",
+        "created_at": "2026-08-28T02:08:42.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T03:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093158805123277001"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093158805123277001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3592,
+          "like_count": 57,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "本人自即日起，正式在 X 平台（原 Twitter），发表如下立场声明，本人郑重表态：\n坚决支持中国共产党的领导；\n坚决拥护习近平同志党中央的核心、全党的核心地位；\n坚决拥护习近平新时代中国特色社会主义思想； \n自觉抵制境外平台错误舆论导向 自觉在境外平台宣扬爱国爱党维护国家统一的进步言论"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2093538559978283331",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 220,
+          "like_count": 42955,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3995
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己\n我的telegram群：https://t.co/7n12aPlryP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+UFtO_LPe9vA0O…",
+                "end": 101,
+                "expanded_url": "https://t.me/+UFtO_LPe9vA0OTJk",
+                "start": 78,
+                "url": "https://t.co/7n12aPlryP"
+              }
+            ]
+          }
+        },
+        "id": "2063957681984225280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093410150472380590",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2093322955522720113",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063957681984225280/1781144220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2339,
+          "following_count": 90,
+          "like_count": 206,
+          "listed_count": 8,
+          "media_count": 768,
+          "tweet_count": 2842
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

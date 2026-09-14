@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2096416539041808507",
+    "created_at": "2026-09-06T01:53:47.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T02:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096416539041808507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 98,
+          "id": "1720665183188922368",
+          "start": 93,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096416539041808507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抛开我的enby身份 查看我的所有帖子 从语气 内容 各内容出现频率等方面确定我的性别符不符合男性或女性的刻板印象 之后为两个维度打分 满分100 越接近满分则越符合刻板印象 反之亦然\n@grok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2096416539041808507",
+        "created_at": "2026-09-06T01:53:47.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T02:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096416539041808507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 98,
+              "id": "1720665183188922368",
+              "start": 93,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096416539041808507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抛开我的enby身份 查看我的所有帖子 从语气 内容 各内容出现频率等方面确定我的性别符不符合男性或女性的刻板印象 之后为两个维度打分 满分100 越接近满分则越符合刻板印象 反之亦然\n@grok"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2096416539041808507",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 227,
+          "like_count": 43096,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 4017
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096416551574339596",
+        "name": "Grok",
+        "pinned_tweet_id": "2087225707504214130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9038745,
+          "following_count": 4,
+          "like_count": 136,
+          "listed_count": 7525,
+          "media_count": 9340840,
+          "tweet_count": 139091986
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

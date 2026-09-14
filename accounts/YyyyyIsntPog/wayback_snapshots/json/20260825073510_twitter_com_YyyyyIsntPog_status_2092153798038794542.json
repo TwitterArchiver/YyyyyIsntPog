@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2091884407061922029",
+    "created_at": "2026-08-25T07:35:10.000Z",
+    "display_text_range": [
+      23,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T08:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092153798038794542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1132729630245265408",
+          "start": 0,
+          "username": "pr80net"
+        },
+        {
+          "end": 22,
+          "id": "1314905089220341761",
+          "start": 9,
+          "username": "ZakkysLabV14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092153798038794542",
+    "in_reply_to_user_id": "1132729630245265408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091884407061922029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pr80net @ZakkysLabV14 炸鸡哥我想要这个🥺🥺"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [ZakkysLabV14].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "ZakkysLabV14",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "ZakkysLabV14"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2091883241439719425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfcuY2bcAE6bU5.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2091883252776886272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfcvDFa4AAXWf8.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2091883264936222720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfcvwYboAAeg3G.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2091883274767593472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfcwVAacAA_rlI.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2091884407061922029",
+        "created_at": "2026-08-25T07:35:10.000Z",
+        "display_text_range": [
+          23,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T08:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092153798038794542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            },
+            {
+              "end": 22,
+              "id": "1314905089220341761",
+              "start": 9,
+              "username": "ZakkysLabV14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092153798038794542",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091884407061922029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net @ZakkysLabV14 炸鸡哥我想要这个🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091883241439719425",
+            "3_2091883252776886272",
+            "3_2091883264936222720",
+            "3_2091883274767593472"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2091884407061922029",
+        "created_at": "2026-08-24T13:44:42.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T14:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091884407061922029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1314905089220341761",
+              "start": 26,
+              "username": "ZakkysLabV14"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LGmG4klmhN",
+              "end": 178,
+              "expanded_url": "https://x.com/pr80net/status/2091884407061922029/photo/1",
+              "media_key": "3_2091883241439719425",
+              "start": 155,
+              "url": "https://t.co/LGmG4klmhN"
+            },
+            {
+              "display_url": "pic.x.com/LGmG4klmhN",
+              "end": 178,
+              "expanded_url": "https://x.com/pr80net/status/2091884407061922029/photo/1",
+              "media_key": "3_2091883252776886272",
+              "start": 155,
+              "url": "https://t.co/LGmG4klmhN"
+            },
+            {
+              "display_url": "pic.x.com/LGmG4klmhN",
+              "end": 178,
+              "expanded_url": "https://x.com/pr80net/status/2091884407061922029/photo/1",
+              "media_key": "3_2091883264936222720",
+              "start": 155,
+              "url": "https://t.co/LGmG4klmhN"
+            },
+            {
+              "display_url": "pic.x.com/LGmG4klmhN",
+              "end": 178,
+              "expanded_url": "https://x.com/pr80net/status/2091884407061922029/photo/1",
+              "media_key": "3_2091883274767593472",
+              "start": 155,
+              "url": "https://t.co/LGmG4klmhN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091884407061922029",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091883241439719425"
+          },
+          {
+            "media_key": "3_2091883252776886272"
+          },
+          {
+            "media_key": "3_2091883264936222720"
+          },
+          {
+            "media_key": "3_2091883274767593472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 39,
+                "id": "1314905089220341761",
+                "start": 26,
+                "username": "ZakkysLabV14"
+              }
+            ]
+          },
+          "text": "永夜安港 【每日空投】 来辣！🤤\n今天依然是扎鸡叔 @ZakkysLabV14 带来的全新包装版本！而且是to签超级典藏版 【5份】！艺术品，这简直是艺术品...只需要【关注】扎鸡叔，并在此帖【评论】你想对扎鸡叔说的话，扎鸡叔会挑选5名幸运观众送出！从未有过如此狠辣的设计，已经彻底臣服于扎鸡叔的艺术了..."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2895,
+          "like_count": 44,
+          "quote_count": 3,
+          "reply_count": 66,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "永夜安港 【每日空投】 来辣！🤤\n今天依然是扎鸡叔 @ZakkysLabV14 带来的全新包装版本！而且是to签超级典藏版 【5份】！艺术品，这简直是艺术品...只需要【关注】扎鸡叔，并在此帖【评论】你想对扎鸡叔说的话，扎鸡叔会挑选5名幸运观众送出！从未有过如此狠辣的设计，已经彻底臣服于扎鸡叔的艺术了... https://t.co/LGmG4klmhN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2092153798038794542",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 219,
+          "like_count": 42980,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 3989
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab14\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "ZakkysLab14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2092149990269628881",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2091884407061922029",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 601,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 315
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

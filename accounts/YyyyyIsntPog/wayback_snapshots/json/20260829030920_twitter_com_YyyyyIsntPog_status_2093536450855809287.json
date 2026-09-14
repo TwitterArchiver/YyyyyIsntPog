@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093536443532484608"
+      ]
+    },
+    "author_id": "1889313848668090368",
+    "conversation_id": "2092989108331360418",
+    "created_at": "2026-08-29T03:09:20.000Z",
+    "display_text_range": [
+      23,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T04:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093536450855809287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1132729630245265408",
+          "start": 0,
+          "username": "pr80net"
+        },
+        {
+          "end": 22,
+          "id": "1789010584731586561",
+          "start": 9,
+          "username": "17_ZakkysLab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DgioY7zWqO",
+          "end": 50,
+          "expanded_url": "https://x.com/YyyyyIsntPog/status/2093536450855809287/photo/1",
+          "media_key": "3_2093536443532484608",
+          "start": 27,
+          "url": "https://t.co/DgioY7zWqO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093536450855809287",
+    "in_reply_to_user_id": "1132729630245265408",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093536443532484608"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092989108331360418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pr80net @17_ZakkysLab 纯想发 https://t.co/DgioY7zWqO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 840,
+        "media_key": "3_2093536443532484608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ28TakWoAAZv1K.jpg",
+        "width": 576
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092988471980027904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvJ7RdbcAAQdxv.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092988521640566784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvJ-KdbIAA2sjA.jpg",
+        "width": 4096
+      },
+      {
+        "duration_ms": 18633,
+        "height": 1280,
+        "media_key": "13_2092988563919151104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092988563919151104/img/I3Ec05z2Xs0Ha7VV.jpg",
+        "public_metrics": {
+          "view_count": 196
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092988563919151104/vid/avc1/320x568/1s-6mGpARnNyBqoy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092988563919151104/vid/avc1/480x852/pUM9PrdF6mq-la2t.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092988563919151104/vid/avc1/720x1280/3NlpR3E7Ly6hIfGp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092988563919151104/pl/xdRywmsbU1pUsgjf.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093536443532484608"
+          ]
+        },
+        "author_id": "1889313848668090368",
+        "conversation_id": "2092989108331360418",
+        "created_at": "2026-08-29T03:09:20.000Z",
+        "display_text_range": [
+          23,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T04:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093536450855809287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            },
+            {
+              "end": 22,
+              "id": "1789010584731586561",
+              "start": 9,
+              "username": "17_ZakkysLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DgioY7zWqO",
+              "end": 50,
+              "expanded_url": "https://x.com/YyyyyIsntPog/status/2093536450855809287/photo/1",
+              "media_key": "3_2093536443532484608",
+              "start": 27,
+              "url": "https://t.co/DgioY7zWqO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093536450855809287",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093536443532484608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092989108331360418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net @17_ZakkysLab 纯想发 https://t.co/DgioY7zWqO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092988471980027904",
+            "3_2092988521640566784",
+            "13_2092988563919151104"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2092989108331360418",
+        "created_at": "2026-08-27T14:54:23.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092989108331360418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 98,
+              "id": "1789010584731586561",
+              "start": 85,
+              "username": "17_ZakkysLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qsqF1ZtQdB",
+              "end": 156,
+              "expanded_url": "https://x.com/pr80net/status/2092989108331360418/video/1",
+              "media_key": "3_2092988471980027904",
+              "start": 133,
+              "url": "https://t.co/qsqF1ZtQdB"
+            },
+            {
+              "display_url": "pic.x.com/qsqF1ZtQdB",
+              "end": 156,
+              "expanded_url": "https://x.com/pr80net/status/2092989108331360418/video/1",
+              "media_key": "3_2092988521640566784",
+              "start": 133,
+              "url": "https://t.co/qsqF1ZtQdB"
+            },
+            {
+              "display_url": "pic.x.com/qsqF1ZtQdB",
+              "end": 156,
+              "expanded_url": "https://x.com/pr80net/status/2092989108331360418/video/1",
+              "media_key": "13_2092988563919151104",
+              "start": 133,
+              "url": "https://t.co/qsqF1ZtQdB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092989108331360418",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092988471980027904"
+          },
+          {
+            "media_key": "3_2092988521640566784"
+          },
+          {
+            "media_key": "13_2092988563919151104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 98,
+                "id": "1789010584731586561",
+                "start": 85,
+                "username": "17_ZakkysLab"
+              }
+            ]
+          },
+          "text": "永夜安港 【日常空投】\n来晚了兄弟们实在抱歉！\n今天的主题是【发点弔图】，你手里收藏的最最最难绷的弔图发出来让大伙都乐一乐，【评论发图、转发、关注】即可参与抽奖。依旧是 @17_ZakkysLab 扎叔选出两名幸运观众送出妙妙小礼物！来吧！表情包大收藏的时机到了！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1812,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "永夜安港 【日常空投】\n来晚了兄弟们实在抱歉！\n今天的主题是【发点弔图】，你手里收藏的最最最难绷的弔图发出来让大伙都乐一乐，【评论发图、转发、关注】即可参与抽奖。依旧是 @17_ZakkysLab 扎叔选出两名幸运观众送出妙妙小礼物！来吧！表情包大收藏的时机到了！ https://t.co/qsqF1ZtQdB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2093536450855809287",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 218,
+          "like_count": 42947,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3989
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @17_ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 98,
+                "username": "17_ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2093429909016441180",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2093316083445063776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 624,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 371
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-10T19:12:26.000Z",
+        "description": "扎鸡兄弟 Los Pollos Hermanos",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/ALxTTL6SOC"
+              }
+            ]
+          }
+        },
+        "id": "1789010584731586561",
+        "is_identity_verified": false,
+        "location": "阿尔伯克基",
+        "most_recent_tweet_id": "2093397708816146604",
+        "name": "扎17",
+        "pinned_tweet_id": "2092636720026288426",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1789010584731586561/1787669819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092264793378099201/nwq8pqCe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 62,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 119
+        },
+        "url": "https://t.co/ALxTTL6SOC",
+        "username": "17_ZakkysLab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
