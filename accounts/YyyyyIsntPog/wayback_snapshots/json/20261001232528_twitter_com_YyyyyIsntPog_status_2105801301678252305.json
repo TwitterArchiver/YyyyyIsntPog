@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2105801301678252305",
+    "created_at": "2026-10-01T23:25:28.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T00:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105801301678252305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bigglesworthx/…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/bigglesworthx/status/2105006097459544506",
+          "start": 70,
+          "url": "https://t.co/jZTvurE1nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105801301678252305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105006097459544506",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有的还性压抑产生性倒错草不到批自己当男娘天天顶着那个臭脚发白丝文案雪糕谁想吃然后和一群类似的男的赛博银趴 一堆男的中产生了一堆想象中的女的 https://t.co/jZTvurE1nd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2105801301678252305",
+        "created_at": "2026-10-01T23:25:28.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T00:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105801301678252305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bigglesworthx/…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/bigglesworthx/status/2105006097459544506",
+              "start": 70,
+              "url": "https://t.co/jZTvurE1nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105801301678252305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105006097459544506",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有的还性压抑产生性倒错草不到批自己当男娘天天顶着那个臭脚发白丝文案雪糕谁想吃然后和一群类似的男的赛博银趴 一堆男的中产生了一堆想象中的女的 https://t.co/jZTvurE1nd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3318278592",
+        "conversation_id": "2105006097459544506",
+        "created_at": "2026-09-29T18:45:37.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T19:41:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105004968419946639",
+          "2105006097459544506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105006097459544506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 33801,
+          "like_count": 1093,
+          "quote_count": 12,
+          "reply_count": 72,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "警惕年龄20上下，社交媒体只发mygo表情包，咕咕嘎嘎企鹅，老耄表情包，政客表情包，圆神战争雷霆逃离塔克夫游戏截图的男高中生/大学生。\n另外这种人会说自己支持人人平等并且会把“男娘”当成女性代餐，但要一提到真的同性恋和跨性别大哥的脸变得比谁都快。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2105801301678252305",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 224,
+          "like_count": 42948,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 4053
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-08-18T04:24:26.000Z",
+        "description": "Unfriendly neighborhood spider | Banned in 106 Chinese transgender chat group for posting spider pictures.",
+        "id": "3318278592",
+        "is_identity_verified": false,
+        "location": "San Francisco",
+        "most_recent_tweet_id": "2105794795067380064",
+        "name": "Hoggicosa bisexsual",
+        "pinned_tweet_id": "2038488362190020638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3318278592/1721775996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929429379127574528/USN-Qd2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2801,
+          "following_count": 1000,
+          "like_count": 3463,
+          "listed_count": 5,
+          "media_count": 1668,
+          "tweet_count": 8496
+        },
+        "url": "",
+        "username": "BigglesworthX",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

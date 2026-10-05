@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2105960498084876591",
+    "created_at": "2026-10-02T09:58:04.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T10:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105960498084876591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/teamtechnoblad…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/teamtechnoblade/status/2105741336473112983",
+          "start": 8,
+          "url": "https://t.co/lRhu6JP1we"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105960498084876591",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105741336473112983",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "eyyyyyy https://t.co/lRhu6JP1we"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2105741325333037056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTkYlCVWAAAHuiu.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2105960498084876591",
+        "created_at": "2026-10-02T09:58:04.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T10:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105960498084876591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/teamtechnoblad…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/teamtechnoblade/status/2105741336473112983",
+              "start": 8,
+              "url": "https://t.co/lRhu6JP1we"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105960498084876591",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105741336473112983",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "eyyyyyy https://t.co/lRhu6JP1we"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105741325333037056"
+          ]
+        },
+        "author_id": "1916280419676221440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105741336473112983",
+        "created_at": "2026-10-01T19:27:12.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T20:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105741336473112983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/beNDR5s9mM",
+              "end": 110,
+              "expanded_url": "https://x.com/TeamTechnoblade/status/2105741336473112983/photo/1",
+              "media_key": "3_2105741325333037056",
+              "start": 87,
+              "url": "https://t.co/beNDR5s9mM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105741336473112983",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2105741325333037056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3751,
+          "like_count": 415,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "It was a hard fought battle, but the Potato Wars came out on top across all platforms! https://t.co/beNDR5s9mM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2105960498084876591",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 227,
+          "like_count": 43053,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 4061
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-26T23:57:44.000Z",
+        "description": "Official account of https://t.co/yGf47gM48M. Imposters can hippity hoppity.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Technoblade.com",
+                "end": 43,
+                "expanded_url": "http://Technoblade.com",
+                "start": 20,
+                "url": "https://t.co/yGf47gM48M"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/2s8fhlgIF2"
+              }
+            ]
+          }
+        },
+        "id": "1916280419676221440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105741336473112983",
+        "name": "Technoblade.com",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916280419676221440/1775100204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916281274693500928/37DsAVsR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5412,
+          "following_count": 70,
+          "like_count": 572,
+          "listed_count": 4,
+          "media_count": 91,
+          "tweet_count": 377
+        },
+        "url": "https://t.co/2s8fhlgIF2",
+        "username": "TeamTechnoblade",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

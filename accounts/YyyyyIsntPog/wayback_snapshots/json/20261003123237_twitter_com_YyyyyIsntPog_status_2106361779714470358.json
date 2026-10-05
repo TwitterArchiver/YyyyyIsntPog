@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2106361779714470358",
+    "created_at": "2026-10-03T12:32:37.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T13:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106361779714470358"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zanyscales/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/zanyscales/status/2106052521609322783",
+          "start": 12,
+          "url": "https://t.co/tR1BLj1nRG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106361779714470358",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106052521609322783",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "快进到所有顺女都是秃顶 https://t.co/tR1BLj1nRG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2106361779714470358",
+        "created_at": "2026-10-03T12:32:37.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T13:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106361779714470358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zanyscales/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/zanyscales/status/2106052521609322783",
+              "start": 12,
+              "url": "https://t.co/tR1BLj1nRG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106361779714470358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106052521609322783",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "快进到所有顺女都是秃顶 https://t.co/tR1BLj1nRG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591365046822748166",
+        "conversation_id": "2106052521609322783",
+        "created_at": "2026-10-02T16:03:44.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T17:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106052521609322783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106052521609322783",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 237,
+          "impression_count": 477595,
+          "like_count": 9776,
+          "quote_count": 26,
+          "reply_count": 108,
+          "retweet_count": 273
+        },
+        "reply_settings": "everyone",
+        "text": "why do transphobes think taking estrogen makes your hair fall out"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2106361779714470358",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 230,
+          "like_count": 43132,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 4076
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-12T09:39:44.000Z",
+        "description": "• 19 yrs • fish that draws sometimes • alt: @ZanyFins • priv: @ZanyGills • 🧡 @oscapebfdi 💜 •",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 44,
+                "username": "ZanyFins"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "ZanyGills"
+              },
+              {
+                "end": 88,
+                "start": 77,
+                "username": "oscapebfdi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ZanyScales",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@ZanyScales",
+                "start": 0,
+                "url": "https://t.co/PqZgilCA6C"
+              }
+            ]
+          }
+        },
+        "id": "1591365046822748166",
+        "is_identity_verified": false,
+        "location": "Scaley's Domain",
+        "most_recent_tweet_id": "2106297730335174720",
+        "name": "Scaley🫧",
+        "pinned_tweet_id": "2104512648930816124",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591365046822748166/1770510500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020293826808803333/5Xo8zJsw_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1687,
+          "following_count": 1025,
+          "like_count": 306921,
+          "listed_count": 10,
+          "media_count": 3385,
+          "tweet_count": 60004
+        },
+        "url": "https://t.co/PqZgilCA6C",
+        "username": "ZanyScales",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

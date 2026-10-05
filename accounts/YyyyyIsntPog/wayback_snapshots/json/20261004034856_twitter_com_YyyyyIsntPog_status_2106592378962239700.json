@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2106592378962239700",
+    "created_at": "2026-10-04T03:48:56.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T04:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106592378962239700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1849053811651809280",
+          "start": 3,
+          "username": "tifasweetie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106592378962239700",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106391263616684411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tifasweetie: I am a trans woman who will not get bottom surgery 🏳️‍⚧️ \n\nHere are my reasons:\n- Pain 👀\n- Complications 🤕\n- I love my bod…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2106592378962239700",
+        "created_at": "2026-10-04T03:48:56.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106592378962239700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849053811651809280",
+              "start": 3,
+              "username": "tifasweetie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106592378962239700",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106391263616684411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tifasweetie: I am a trans woman who will not get bottom surgery 🏳️‍⚧️ \n\nHere are my reasons:\n- Pain 👀\n- Complications 🤕\n- I love my bod…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849053811651809280",
+        "conversation_id": "2106391263616684411",
+        "created_at": "2026-10-03T14:29:46.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106391263616684411"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106391263616684411",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 10990,
+          "like_count": 397,
+          "quote_count": 2,
+          "reply_count": 199,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "I am a trans woman who will not get bottom surgery 🏳️‍⚧️ \n\nHere are my reasons:\n- Pain 👀\n- Complications 🤕\n- I love my body as it is 💕\n- Genitals don’t determine my gender 🌸\n\nThe society’s insistence I get surgery to “complete” my transition is false. I am still a woman 🙋🏻‍♀️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2106592378962239700",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 231,
+          "like_count": 43280,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 4093
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-23T11:42:45.000Z",
+        "description": "tifa ♡ sweet 19 🧸 (its here ⤵️💕)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/tifalink",
+                "end": 23,
+                "expanded_url": "https://link.me/tifalink",
+                "start": 0,
+                "url": "https://t.co/yRCa5ipZgB"
+              }
+            ]
+          }
+        },
+        "id": "1849053811651809280",
+        "is_identity_verified": false,
+        "location": "pshhh  ➡️",
+        "most_recent_tweet_id": "2106391263616684411",
+        "name": "🌸🍰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849053811651809280/1729855870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849775258682675200/aAvgH-HQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24155,
+          "following_count": 12,
+          "like_count": 205,
+          "listed_count": 98,
+          "media_count": 597,
+          "tweet_count": 1730
+        },
+        "url": "https://t.co/yRCa5ipZgB",
+        "username": "tifasweetie",
+        "verified": false,
+        "verified_type": "none",
+        "withheld": {
+          "country_codes": [
+            "TR"
+          ]
+        }
+      }
+    ]
+  }
+}

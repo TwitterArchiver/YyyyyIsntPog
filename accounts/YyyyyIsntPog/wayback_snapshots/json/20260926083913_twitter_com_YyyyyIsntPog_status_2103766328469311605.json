@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103090470314467328"
+      ],
+      "media_source_tweet_id": [
+        "2103090478526939363"
+      ]
+    },
+    "author_id": "1889313848668090368",
+    "conversation_id": "2103766328469311605",
+    "created_at": "2026-09-26T08:39:13.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T09:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103766328469311605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1519967050084810752",
+          "start": 3,
+          "username": "yng_hoti"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EPZJ45WruJ",
+          "end": 46,
+          "expanded_url": "https://x.com/yng_hoti/status/2103090478526939363/photo/1",
+          "media_key": "3_2103090470314467328",
+          "start": 23,
+          "url": "https://t.co/EPZJ45WruJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103766328469311605",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103090470314467328"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1463
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103090478526939363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yng_hoti: いちばんかわいい https://t.co/EPZJ45WruJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103090470314467328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS-to92aYAA7Vw-.jpg",
+        "width": 1837
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103090470314467328"
+          ],
+          "media_source_tweet_id": [
+            "2103090478526939363"
+          ]
+        },
+        "author_id": "1889313848668090368",
+        "conversation_id": "2103766328469311605",
+        "created_at": "2026-09-26T08:39:13.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T09:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103766328469311605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1519967050084810752",
+              "start": 3,
+              "username": "yng_hoti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EPZJ45WruJ",
+              "end": 46,
+              "expanded_url": "https://x.com/yng_hoti/status/2103090478526939363/photo/1",
+              "media_key": "3_2103090470314467328",
+              "start": 23,
+              "url": "https://t.co/EPZJ45WruJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103766328469311605",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103090470314467328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1463
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103090478526939363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yng_hoti: いちばんかわいい https://t.co/EPZJ45WruJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103090470314467328"
+          ]
+        },
+        "author_id": "1519967050084810752",
+        "conversation_id": "2103090478526939363",
+        "created_at": "2026-09-24T11:53:38.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T12:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103090478526939363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EPZJ45WruJ",
+              "end": 32,
+              "expanded_url": "https://x.com/yng_hoti/status/2103090478526939363/photo/1",
+              "media_key": "3_2103090470314467328",
+              "start": 9,
+              "url": "https://t.co/EPZJ45WruJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103090478526939363",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103090470314467328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 864,
+          "impression_count": 88588,
+          "like_count": 8796,
+          "quote_count": 27,
+          "reply_count": 20,
+          "retweet_count": 1463
+        },
+        "reply_settings": "everyone",
+        "text": "いちばんかわいい https://t.co/EPZJ45WruJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2103766328469311605",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 224,
+          "like_count": 42892,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 4041
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-29T09:09:23.000Z",
+        "description": "絵を描いてます💗￤⚠️イラストの無断使用(AI学習含)や、自作発言等はお控えください。￤📮skeb→https://t.co/ybf5Cc1dtz ￤📖FANBOX→ https://t.co/hRrjrbHJPf ￤💌Mail→yunagihoti@gmail.com￤sub→@yng_hotti",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 140,
+                "username": "yng_hotti"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@yng_hoti",
+                "end": 73,
+                "expanded_url": "https://skeb.jp/@yng_hoti",
+                "start": 50,
+                "url": "https://t.co/ybf5Cc1dtz"
+              },
+              {
+                "display_url": "ynghoti.fanbox.cc",
+                "end": 107,
+                "expanded_url": "https://ynghoti.fanbox.cc/",
+                "start": 84,
+                "url": "https://t.co/hRrjrbHJPf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ynghoti",
+                "end": 23,
+                "expanded_url": "https://lit.link/ynghoti",
+                "start": 0,
+                "url": "https://t.co/5q5d6R12jc"
+              }
+            ]
+          }
+        },
+        "id": "1519967050084810752",
+        "is_identity_verified": false,
+        "location": "ご依頼の詳細やその他SNSなど→",
+        "most_recent_tweet_id": "2103693856214774069",
+        "name": "ゆなぎなち🌟",
+        "pinned_tweet_id": "1908519868913377557",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1519967050084810752/1756552260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906956819400142848/i5pGDD2o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21926,
+          "following_count": 531,
+          "like_count": 76003,
+          "listed_count": 146,
+          "media_count": 365,
+          "tweet_count": 15111
+        },
+        "url": "https://t.co/5q5d6R12jc",
+        "username": "yng_hoti",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

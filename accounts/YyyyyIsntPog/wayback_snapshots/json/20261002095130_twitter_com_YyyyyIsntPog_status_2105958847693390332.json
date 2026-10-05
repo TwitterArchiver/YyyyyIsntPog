@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2105872583539253735",
+    "created_at": "2026-10-02T09:51:30.000Z",
+    "display_text_range": [
+      47,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T10:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105958847693390332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2082058720993816576",
+          "start": 0,
+          "username": "gdwx9lw6s5divju"
+        },
+        {
+          "end": 31,
+          "id": "1842224575947616256",
+          "start": 17,
+          "username": "swindpringLt1"
+        },
+        {
+          "end": 46,
+          "id": "1870858980752543744",
+          "start": 32,
+          "username": "AzaelRose1017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105958847693390332",
+    "in_reply_to_user_id": "2082058720993816576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105892298106257724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdwx9lw6s5divju @swindpringLt1 @AzaelRose1017 我也想要🥺🥺可小偿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2105872583539253735",
+        "created_at": "2026-10-02T09:51:30.000Z",
+        "display_text_range": [
+          47,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T10:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105958847693390332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2082058720993816576",
+              "start": 0,
+              "username": "gdwx9lw6s5divju"
+            },
+            {
+              "end": 31,
+              "id": "1842224575947616256",
+              "start": 17,
+              "username": "swindpringLt1"
+            },
+            {
+              "end": 46,
+              "id": "1870858980752543744",
+              "start": 32,
+              "username": "AzaelRose1017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105958847693390332",
+        "in_reply_to_user_id": "2082058720993816576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105892298106257724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdwx9lw6s5divju @swindpringLt1 @AzaelRose1017 我也想要🥺🥺可小偿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082058720993816576",
+        "conversation_id": "2105872583539253735",
+        "created_at": "2026-10-02T05:27:04.000Z",
+        "display_text_range": [
+          30,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T06:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105892298106257724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1842224575947616256",
+              "start": 0,
+              "username": "swindpringLt1"
+            },
+            {
+              "end": 29,
+              "id": "1870858980752543744",
+              "start": 15,
+              "username": "AzaelRose1017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105892298106257724",
+        "in_reply_to_user_id": "1842224575947616256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105883648620916873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@swindpringLt1 @AzaelRose1017 宝宝我有你还要嘛"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2105958847693390332",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 227,
+          "like_count": 43029,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 4059
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-28T11:02:06.000Z",
+        "description": "aska/重抑重焦/我o我割/挑战正常上学中/哦哦快来找我互fo",
+        "id": "2082058720993816576",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105892298106257724",
+        "name": "askaaaa",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093330725319958528/9EhFNj9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 62,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "gdwx9lw6s5divju",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-04T15:26:00.000Z",
+        "description": "长期睡眠障碍|重度抑郁|OD|药理学研究\n歇斯底里不是力量的表现，而是暴露出力量的空虚",
+        "id": "1842224575947616256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105914897813082231",
+        "name": "澪一",
+        "pinned_tweet_id": "2073750726061535237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1842224575947616256/1776057362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842225102991269888/XR6enADE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 276,
+          "like_count": 563,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "swindpringLt1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-22T15:48:53.000Z",
+        "description": "僕らの記憶を掠わないで\n＝阿清/双相／自伤／BPD/ADHD/ED／泛性恋/心理性别是阿普唑仑/互fo会查成分\n只是发发日常和碎碎念，别对我期待",
+        "id": "1870858980752543744",
+        "is_identity_verified": false,
+        "location": "马里亚纳海沟",
+        "most_recent_tweet_id": "2105905337958297778",
+        "name": "爱与致幻剂",
+        "pinned_tweet_id": "2103462844876353965",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870858980752543744/1790265366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103064899911897089/S2d4YqfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 106,
+          "like_count": 2143,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1060
+        },
+        "url": "",
+        "username": "AzaelRose1017",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

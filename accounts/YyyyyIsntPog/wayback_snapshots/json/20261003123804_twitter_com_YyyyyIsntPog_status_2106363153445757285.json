@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2106363153445757285",
+    "created_at": "2026-10-03T12:38:04.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T13:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106363153445757285"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yinsuecci/stat…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/yinsuecci/status/2105865046391964149",
+          "start": 53,
+          "url": "https://t.co/APcTRD9X0W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106363153445757285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105865046391964149",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉一个是激素波动一个是某些压抑的转化/性羞耻终于有了出口（从草别人的恐惧反感变成了想被草的呃。欲望？） https://t.co/APcTRD9X0W"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2106363153445757285",
+        "created_at": "2026-10-03T12:38:04.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T13:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106363153445757285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yinsuecci/stat…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/yinsuecci/status/2105865046391964149",
+              "start": 53,
+              "url": "https://t.co/APcTRD9X0W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106363153445757285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105865046391964149",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉一个是激素波动一个是某些压抑的转化/性羞耻终于有了出口（从草别人的恐惧反感变成了想被草的呃。欲望？） https://t.co/APcTRD9X0W"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841098665001435141",
+        "conversation_id": "2105865046391964149",
+        "created_at": "2026-10-02T03:38:46.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T04:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105865046391964149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yinsuecci/stat…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/yinsuecci/status/2105821493838147855",
+              "start": 93,
+              "url": "https://t.co/0LbkbUxDcB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105865046391964149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 62289,
+          "like_count": 271,
+          "quote_count": 8,
+          "reply_count": 67,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105821493838147855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直有个疑问？\n\n作为一名含糖友跨顺男，我承认我吃糖之后发生了明显的性欲消退，看片都不会有什么感觉\n\n为什么感觉推特上的mtf性欲都这么大\n\n甚至还要去约奇奇怪怪的人上床...... https://t.co/0LbkbUxDcB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2106363153445757285",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 230,
+          "like_count": 43139,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 4077
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-01T12:52:21.000Z",
+        "description": "Math ｜ Investment ｜ AI\n🎓 08男大，努力攒学费中\n⚡ 境外代充 / 数学竞赛，高中数理化授课\n💬 纯音乐 / 写文看文 / 投资心得\n📌 请称呼我：小樱\nhttps://t.co/KwlJRgWpw3 10r/月，推特代充找我喵\nEn & Ch",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.udclass.top",
+                "end": 112,
+                "expanded_url": "http://x.udclass.top",
+                "start": 89,
+                "url": "https://t.co/KwlJRgWpw3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+LSzCWv_H4HM1Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+LSzCWv_H4HM1YTQ1",
+                "start": 0,
+                "url": "https://t.co/1pvXRAKJkZ"
+              }
+            ]
+          }
+        },
+        "id": "1841098665001435141",
+        "is_identity_verified": false,
+        "location": "Mars",
+        "most_recent_tweet_id": "2106361660588048457",
+        "name": "櫻序曦葉",
+        "pinned_tweet_id": "2101245194608009216",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841098665001435141/1759751689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975161887664050176/xM8Jqs6-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2999,
+          "following_count": 270,
+          "like_count": 321,
+          "listed_count": 2,
+          "media_count": 454,
+          "tweet_count": 2088
+        },
+        "url": "https://t.co/1pvXRAKJkZ",
+        "username": "yinsuecci",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2106360747873943989",
+    "created_at": "2026-10-03T12:28:31.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T13:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106360747873943989"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/itellectualize…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/itellectualize/status/2106210772791824407",
+          "start": 15,
+          "url": "https://t.co/fl6xkicGJb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106360747873943989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106210772791824407",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "隐喻和换喻。各位，学习拉康。 https://t.co/fl6xkicGJb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2106360747873943989",
+        "created_at": "2026-10-03T12:28:31.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T13:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106360747873943989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/itellectualize…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/itellectualize/status/2106210772791824407",
+              "start": 15,
+              "url": "https://t.co/fl6xkicGJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106360747873943989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106210772791824407",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "隐喻和换喻。各位，学习拉康。 https://t.co/fl6xkicGJb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072156739311681536",
+        "conversation_id": "2106210772791824407",
+        "created_at": "2026-10-03T02:32:34.000Z",
+        "display_text_range": [
+          0,
+          167
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T03:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106210772791824407"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106210772791824407",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 762,
+          "impression_count": 134456,
+          "like_count": 2758,
+          "quote_count": 236,
+          "reply_count": 4,
+          "retweet_count": 458
+        },
+        "reply_settings": "everyone",
+        "text": "&lt;우울증 환자는 비유적 언어를 많이 쓴다&gt;\n\n연구에 따르면 우울증 환자는 건강한 사람에 비해 비유적 언어를 더 많이 쓴다. 예를 들어 \"오랫동안 억눌려 왔던 감정이 폭발한 것 같다\" 처럼, 표현하기 어려운 정서적 상태를  은유로 전달하는 것이다. 우울증에 걸리면 시인에 가까워질 수 있다."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2106360747873943989",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 230,
+          "like_count": 43126,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 4075
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-01T03:17:18.000Z",
+        "description": "정신건강과 심리에 관심 있습니다.",
+        "id": "2072156739311681536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106355952136196214",
+        "name": "주지하",
+        "pinned_tweet_id": "2105500863544610845",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072156739311681536/1790060099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102286494694322176/H1HwUTOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 66,
+          "like_count": 528,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 103
+        },
+        "url": "",
+        "username": "itellectualize",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1889313848668090368",
+    "conversation_id": "2106231421551722793",
+    "created_at": "2026-10-03T03:54:37.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T04:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106231421551722793"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/y3onzbmi/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/y3onzbmi/status/2105933450041544966",
+          "start": 3,
+          "url": "https://t.co/4k1cPTdbrm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106231421551722793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105933450041544966",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我： https://t.co/4k1cPTdbrm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2106231421551722793",
+        "created_at": "2026-10-03T03:54:37.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T04:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106231421551722793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/y3onzbmi/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/y3onzbmi/status/2105933450041544966",
+              "start": 3,
+              "url": "https://t.co/4k1cPTdbrm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106231421551722793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105933450041544966",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我： https://t.co/4k1cPTdbrm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857705541654425600",
+        "conversation_id": "2105933450041544966",
+        "created_at": "2026-10-02T08:10:35.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T09:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105933450041544966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105933450041544966",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 736,
+          "impression_count": 325922,
+          "like_count": 37553,
+          "quote_count": 175,
+          "reply_count": 28,
+          "retweet_count": 5937
+        },
+        "reply_settings": "everyone",
+        "text": "Suicidal person: \"i swear on my life\""
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜它/it ｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜纯神经典型滚吧滚吧｜恋人@prayer_sh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "prayer_sh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "is_identity_verified": false,
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "most_recent_tweet_id": "2106231421551722793",
+        "name": "^^",
+        "pinned_tweet_id": "2078422875766157439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889313848668090368/1776420868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060341293654446087/kw56RKjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 228,
+          "like_count": 43090,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 4069
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "YyyyyIsntPog",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-16T08:41:41.000Z",
+        "description": "omad twomad hoesmad",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "y3onzbmi.straw.page",
+                "end": 23,
+                "expanded_url": "https://y3onzbmi.straw.page",
+                "start": 0,
+                "url": "https://t.co/sMNSGg4UH7"
+              }
+            ]
+          }
+        },
+        "id": "1857705541654425600",
+        "is_identity_verified": false,
+        "location": "زهراء ⋆. 𐙚 ˚",
+        "most_recent_tweet_id": "2106128226724569542",
+        "name": "˗ˏˋ zozo 🕷️",
+        "pinned_tweet_id": "2085861776399208602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857705541654425600/1787207116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090324219959668736/kJEp6VuL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 1530,
+          "like_count": 28214,
+          "listed_count": 16,
+          "media_count": 1852,
+          "tweet_count": 24340
+        },
+        "url": "https://t.co/sMNSGg4UH7",
+        "username": "y3onzbmi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
